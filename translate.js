@@ -1,24 +1,27 @@
 const fs = require('node:fs')
 
 const primitives = read('primitives.txt')
-  .map(l => l.split(':'))
-  .map(([p, t]) => [p, ...t.split(' - ').map(s => s.split(',').map(s => s.trim()))])
-  .reduce((a, [p, meaning, anti]) => ({
-    ...a,
-    [p]: { meaning, anti }
-  }), {})
+      .map(([p, t]) => [
+        p,
+        ...t.split(' - ')
+          .map(s => s.split(',')
+               .map(s => s.trim()))
+      ])
+      .reduce((a, [p, meaning, anti]) => ({
+        ...a,
+        [p]: { meaning, anti }
+      }), {})
 
 const translations = {}
 
-for (const [p, { meaning, anti }] of Object.entries(primitives)) {
-  for (const m of meaning)
-    translations[m] = [p]
-  for (const a of anti || [])
-    translations[a] = [p, 'na']
-}
+Object.keys(primitives).forEach(p => {
+  primitives[p].meaning.forEach(m =>
+    translations[m] = [p]);
+  (primitives[p].anti || []).forEach(m =>
+    translations[m] = [p, 'na'])
+})
 
 const dictionary = read('dictionary.txt')
-  .map(l => l.split(':'))
   .reduce((a, [w, r]) => ({
     ...a,
     [w]: r.trim()
@@ -29,7 +32,6 @@ for (const [w, t] of Object.entries(dictionary)) {
 }
 
 const sentences = read('sentences.txt')
-  .map(l => l.split(':'))
   .reduce((a, [w, r]) => ({
     ...a,
     [w]: r.trim()
@@ -50,7 +52,7 @@ do {
         return [...a, t]
       if (!(t in translations)) {
         missing[t] = true
-        return [...a, '#' + t + '#']
+        return [...a, t]
       }
       translated++
       return [...a, ...translations[t]]
@@ -66,6 +68,8 @@ function read(file) {
     .split('\n')
     .map(l => l.trim())
     .filter(l => l.length && !l.startsWith('#'))
+    .filter(l => l.includes(':'))
+    .map(l => l.split(':'))
 }
 
 fs.writeFileSync('out.html',
@@ -86,4 +90,3 @@ function table(keys, source) {
       .join('\n')
     + '</table>'
 }
-

@@ -1,6 +1,6 @@
 Show primitives (with groups) in out.html
 
-Ignore empty entries in dictionary and sentences
+Include primitives in output dictionary
 
 Show duplicates
 

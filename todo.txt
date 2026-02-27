@@ -1,1 +1,7 @@
 Show primitives (with groups) in out.html
+
+Ignore empty entries in dictionary and sentences
+
+Show duplicates
+
+Deploy pages on push

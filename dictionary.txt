@@ -1,3 +1,5 @@
+# https://en.wikipedia.org/wiki/Swadesh_list
+
 I: person here
 you: I not
 he: person that
@@ -58,3 +60,578 @@ shine: emit
 language: word many
 word: speak
 why: result what
+rope
+skin
+meat
+blood
+bone
+fat (noun)
+egg
+horn
+tail
+feather
+hair
+head
+ear
+eye
+nose
+mouth
+tooth
+tongue (organ)
+hand
+fingernail
+foot
+leg
+knee
+wing
+belly
+guts
+neck
+back (bodypart)
+breast
+heart
+liver
+drink
+eat
+bite
+suck
+spit
+vomit
+blow
+breathe
+laugh
+see
+hear
+know
+think
+smell
+fear
+live
+sleep
+die
+kill
+fight
+search
+hunt
+hit
+cut
+split
+stab
+scratch
+dig
+swim
+fly
+walk
+come
+lie (as in a bed)
+sit
+stand
+turn (intransitive)
+fall
+give
+hold
+squeeze
+rub
+wash
+wipe
+pull
+push
+throw
+tie
+sew
+count
+say
+sing
+play
+float
+flow
+freeze
+swell
+sun
+moon
+star
+water
+rain
+river
+lake
+sea
+salt
+stone
+sand
+dust
+earth
+cloud
+fog
+sky
+wind
+snow
+ice
+smoke
+fire
+ash
+to burn
+road
+mountain
+red
+green
+yellow
+white
+black
+night: time dark
+day
+year
+warm
+cold
+full
+new
+old
+good
+bad
+rotten
+dirty
+straight
+round
+sharp (as a knife)
+dull (as a knife)
+smooth
+wet
+dry
+correct
+near
+far
+right
+left
+at
+in
+with
+and
+if
+because
+name
+
+# https://tmh.conlang.org/test-sentences/conlang-syntax-test-cases.html
+
+absent minded
+act (v)
+animal
+answer (n)
+apple (tree)
+arrive
+ashamed
+August
+awake
+baby
+ball
+basket
+bedroom
+begin
+big
+bird
+black
+blanket
+blow
+blue
+boat
+bonfire
+book (n)
+born
+bough
+box (n)
+boy
+brains (plural)
+branch
+brave
+breakfast
+bright
+brim
+bring
+broken
+brother
+build
+cabin
+call
+camper
+candlelight
+cap
+careful
+caress
+carry
+cat
+catch
+cautiously
+chair
+child
+city
+clap
+clear away
+climate
+close (near)
+cold
+come
+come
+command
+company
+concert
+consider
+corn
+cottage
+country
+course
+cousin
+cover
+crow
+dance
+dance
+danger
+day
+dear (darling)
+demand
+directly
+disposition
+distance
+do
+dog
+doll
+door
+dress (v and n)
+droop
+drop
+drum
+early
+East
+eat
+embroidered
+end (n)
+enemy
+enough
+entrance
+evening
+evidently
+except
+face
+faithful
+fall
+far
+fast
+father
+fear (v)
+feast
+feather
+feel
+feet
+fell
+fence
+fertile
+find
+fine (adj)
+finery
+fire
+fisherman
+floor
+flower
+flute
+freeze
+friend
+friendly
+full
+funny
+game
+gardener
+gate
+gentle
+get
+girl
+give
+glee
+gnome
+go
+good (better
+best)
+governor
+grant
+grass
+gray
+great
+green
+ground
+grow
+guest
+hall
+handful
+hands (dual)
+happy
+hastily
+hat
+head (n)
+hear
+hemlock
+hidden
+high
+hill
+history
+hold
+home
+hope (v)
+horse
+hot
+house
+hunting (n)
+hurry (v)
+hurt
+hut
+indeed
+interesting
+juicy
+jump
+jungle
+keep
+kitchen
+kitten
+knife
+know
+lace
+lake
+large
+last
+late
+laugh
+lay (recline)
+leaf
+learn
+leave
+lend
+liberty
+light (n and adj)
+like (v)
+line
+listen
+litter (of cats)
+little
+live (v)
+lofty
+log (n)
+lonely
+long
+look
+lose (v)
+loud
+love (v)
+lovely
+low
+lunch
+make
+man
+mantle
+maple
+march
+market
+meadow
+meet
+message
+mile
+minute
+mist
+mite
+Monday
+money
+monkey
+morning
+moss
+mother
+mountain
+mouth
+mystery
+name
+national
+near
+neatly
+need
+neighbor
+nest (n)
+new
+news
+next
+night
+noon
+nose
+note
+now
+oak
+obey
+often
+old
+once
+opened
+opinion
+opposite
+orange
+order (v)
+own
+pack away
+palace
+pardon (n)
+part
+pasture
+patiently
+pay
+payment
+pebble
+people
+pip
+pitcher
+place (n)
+plant (n)
+play
+poor
+pop (corn)
+poppy
+princess
+probably
+protector
+prove
+quick
+quiet
+ragged
+rain
+raise
+ready
+red
+remain
+residence
+ribbon
+ring
+rise
+river
+road
+roadside
+roll (v)
+room
+root
+rose
+run (v)
+sad
+sail
+sailor
+salty
+satisfied
+say
+school
+sea
+secret
+see
+seed (n)
+seem
+seize
+send
+shabby
+sharply
+shell
+shine_v
+shoes (dual)
+short
+shout
+show (v)
+sing
+sister
+sit
+sky
+sleep
+slowly
+small
+snow
+snowflake
+snug
+soft
+soldier
+solstice
+son
+sound (v and n)
+soundly
+splendid
+spool (n)
+spring
+squirrel
+stand (v)
+start (v)
+stay (v)
+stick
+stone
+stop (v)
+story
+strange
+street
+string
+strong
+sugar
+summer
+sun
+sunny
+sure
+sweet
+symbol
+table
+take
+talk
+tall
+taste (intransitive)
+tea
+tell
+think
+thread
+throw (v)
+time
+tiny
+tired
+today
+tomorrow
+top
+torn
+train
+travel
+traveler
+tree
+trick
+trip
+trunk
+trustworthy
+tune (n)
+turn (v)
+uncle
+uncomfortable
+usually
+valley
+village
+visit
+voice
+wait
+walk
+warm
+warning
+watch
+water
+way
+wear
+week
+well (adv)
+west (adj)
+wheat
+wide
+wife
+wild
+win
+wind
+window
+wing
+winter
+wise
+woman
+wonderful
+work (v)
+world
+wrapped
+wreath
+write
+year
+yellow
+yesterday
+young

@@ -1,0 +1,1 @@
+Show primitives (with groups) in out.html

@@ -1,0 +1,60 @@
+I: person here
+you: I not
+he: person that
+we: I many
+you_plural: you many
+they: he many
+this: that
+who: person what
+where: place what
+when: time what
+how: make what
+some: many not
+four: number pair pair
+ten: number pair repeat many
+twenty: number pair pair repeat many
+tenty-five: number many repeat many
+long: side large
+wide: front large
+thick: around large
+short: up small
+narrow: wide not
+thin: thick not
+friend: person good
+woman: person soft
+man: person hard
+child: person small
+wife: woman pair
+husband: man pair
+mother: woman with child
+father: man with child
+fish: animal water
+bird: animal air
+dog: animal person
+tiny: small small
+jump: move up air
+louse: spider tiny
+spider: animal small - leg - eight
+eight: number pair repeat pair pair
+leg: body part - move
+body: person thing
+snake: animal soft - long
+worm: snake - small
+plant: thing alive
+tree: plant large
+forest: tree many
+stick: tree part small
+fruit: plant - child
+seed: fruit start
+leaf: tree part triangle small
+root: tree part down
+bark: tree cover
+flower: plant good
+drink: eat water
+sun: fire large - sky
+sky: up outside
+now: time here
+shine: emit
+language: word many
+word: speak
+why: result what

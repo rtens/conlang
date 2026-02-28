@@ -1,7 +1,5 @@
 Show primitives (with groups) in out.html
 
-Include primitives in output dictionary
-
-Show duplicates
+Find duplicate words
 
 Deploy pages on push

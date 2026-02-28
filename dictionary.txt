@@ -56,7 +56,7 @@ drink: eat water
 sun: fire large - sky
 sky: up outside
 now: time here
-shine: emit
+shine: color emit
 language: word many
 word: speak
 why: result what

@@ -14,18 +14,22 @@ const primitives = read('primitives.txt')
 
 const translations = {}
 
-Object.keys(primitives).forEach(p => {
-  primitives[p].meaning.forEach(m =>
-    translations[m] = [p]);
-  (primitives[p].anti || []).forEach(m =>
-    translations[m] = [p, 'na'])
-})
-
 const dictionary = read('dictionary.txt')
   .reduce((a, [w, r]) => ({
     ...a,
     [w]: r.trim()
   }), {})
+
+Object.keys(primitives).forEach(p => {
+  primitives[p].meaning.forEach(m => {
+    translations[m] = [p]
+    dictionary[m] = p
+  });
+  (primitives[p].anti || []).forEach(m => {
+    translations[m] = [p, 'na']
+    dictionary[m] = p + ' na'
+  })
+})
 
 for (const [w, t] of Object.entries(dictionary)) {
   translations[w] = t.split(' ').map(s => s.trim())

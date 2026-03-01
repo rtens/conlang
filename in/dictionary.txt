@@ -70,22 +70,23 @@ blood: body part inside water
 food: thing eat
 bone
 fat (noun)
-egg
+egg: bird child - start
 horn
 tail
-feather
-hair
-head
-ear
-eye
-nose
-mouth
-tooth
-tongue (organ)
-hand
-fingernail
-foot
-leg
+feather: bird - skin soft
+hair: skin soft
+head: body part - up
+ear: body part - hear
+eye: body part - see
+nose: body part - smell
+mouth: body part - eat
+tooth: mouth - part hard
+tongue: mouth - part soft
+hand: body part - use
+fingernail: hand - part top hard
+foot: leg - part bottom
+top: up up
+bottom: down down
 knee
 wing
 belly

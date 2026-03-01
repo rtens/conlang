@@ -364,5 +364,5 @@ Your things are all here.
 
 # Other
 
-My back itches. : . back(body) - me ! itch
-Please scratch my back. : . I ! desire _ you > back(body) - me ! scratch
+My back itches. : . back(body) - I ! itch
+Please scratch my back. : . I ! desire _ you > back(body) - I ! scratch

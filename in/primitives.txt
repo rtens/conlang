@@ -31,7 +31,7 @@ li: good, desire, need, important - bad, unimportant
 # Relations
 fe: front - back
 su: up, above, lift - down, oppress
-fi: side - around
+fi: side - middle
 me: outside - inside
 to: towards, direction - away
 

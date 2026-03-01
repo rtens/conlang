@@ -19,6 +19,7 @@ tenty-five: number many repeat many
 long: side large
 wide: front large
 thick: around large
+around: outside side
 short: up small
 narrow: wide not
 thin: thick not

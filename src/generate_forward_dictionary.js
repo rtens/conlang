@@ -4,9 +4,21 @@ import translate from './translate.js'
 import { page, title, table } from './html.js'
 
 export default function generate_forward_dictionary(out) {
+  const translated = translate(load_dictionary())
+
+  const counts = translated.reduce((a, c) => ({
+    ...a,
+    [c.word]: (a[c.word] || 0) + 1
+  }), {})
+  const dups = Object.keys(counts)
+        .filter(word => counts[word] > 1)
+
+  if (dups.length)
+    console.log('duplicates:', dups)
+
   save(out, page(
     title('Dictionary'),
-    table(translate(load_dictionary())
+    table(translated
       .toSorted((a, b) => a.word.toLowerCase() < b.word.toLowerCase() ? -1 : 1)
       .map(e => [
         `<strong>${e.word}</strong>`,

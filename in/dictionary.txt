@@ -60,10 +60,14 @@ shine: color emit
 language: word many
 word: speak
 why: result what
-rope
-skin
-meat
-blood
+back(body): body part back
+itch: skin move bad
+scratch: touch move rough
+skin: body part cover
+rope: thing long flexible
+meat: animal body part - eat
+blood: body part inside water
+food: thing eat
 bone
 fat (noun)
 egg

@@ -24,7 +24,9 @@ export default function generate_sentences(out) {
       .map(e => [
         `<strong>${e.sentence}</strong>`,
         `<i>${e.translation}</i>`,
-        e.primitives.map(p => `<img src="../symbols/${p}.png" height="20">`).join(''),
+        e.primitives.map(p =>
+          `<img src="../symbols/${p}.png" height="20">`)
+          .join(''),
         e.primitives.join(' ')
       ]), { 0: 2, 1: 2 })))
 }

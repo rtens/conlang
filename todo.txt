@@ -1,9 +1,1 @@
-Change word order to SVO
-
-Change syntax glyphs
-
-Merge here and this
-
-Revise bases
-
 Deploy pages on push

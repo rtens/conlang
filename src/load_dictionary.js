@@ -1,5 +1,5 @@
 import fs from 'node:fs'
-import load_primitives from './load_primitives.js'
+import load_bases from './load_bases.js'
 
 export default function load_dictionary() {
   const dictionary = fs.readFileSync('in/dictionary.txt')
@@ -13,22 +13,15 @@ export default function load_dictionary() {
     .map(([word, translation]) => ({
       word,
       translation,
-      primitives: translation.split(' ')
+      bases: translation.split(' ')
     }))
 
-  for (const primitive of load_primitives()) {
-    for (const word of primitive.meaning) {
+  for (const base of load_bases()) {
+    for (const word of [...base.noun, ...base.qualifier, ...base.verb]) {
       dictionary.push({
         word,
-        translation: '(primitive)',
-        primitives: [primitive.syllable],
-      })
-    }
-    for (const word of primitive.anti) {
-      dictionary.push({
-        word,
-        translation: '(anti primitive)',
-        primitives: [primitive.syllable, 'na'],
+        translation: '(base)',
+        bases: [base.syllable],
       })
     }
   }

@@ -15,7 +15,7 @@ export default function generate_sentences(out) {
     .map(([sentence, translation]) => ({
       sentence,
       translation,
-      primitives: translation.split(' ')
+      bases: translation.split(' ')
     }))
 
   save(out, page(
@@ -24,9 +24,9 @@ export default function generate_sentences(out) {
       .map(e => [
         `<strong>${e.sentence}</strong>`,
         `<i>${e.translation}</i>`,
-        e.primitives.map(p =>
-          `<img src="../symbols/${p}.png" height="20">`)
+        e.bases.map(p =>
+          `<img src="../glyphs/${p}.png" height="20">`)
           .join(''),
-        e.primitives.join(' ')
+        e.bases.join(' ')
       ]), { 0: 2, 1: 2 })))
 }

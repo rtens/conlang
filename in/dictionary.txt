@@ -1,3 +1,43 @@
+# Negations
+
+idea: thing not
+animal: person not
+time: place not
+name: number not
+same: opposite not
+what: question
+down: up not
+back: front not
+middle: side not
+outside: inside not
+small: large not
+rough: smooth not
+straight: round not
+closed: open not
+bad: good not
+light_weight: heavy not
+dry: wet not
+cold: warm not
+dirty: clean not
+slow: fast not
+dark: bright not
+hear: speak not
+this: here
+that: this not
+make: transform
+hard: soft not
+with: together
+part: unit not
+cover: to_open not
+color: light
+emit: show
+result: end
+end: beginning not
+flexible: soft
+see: show not
+smell: blow not
+desire: like
+
 # https://en.wikipedia.org/wiki/Swadesh_list
 
 I: person here
@@ -6,7 +46,6 @@ he: person that
 we: I many
 you_plural: you many
 they: he many
-this: that
 who: person what
 where: place what
 when: time what
@@ -43,18 +82,17 @@ leg: body part - move
 body: person thing
 snake: animal soft - long
 worm: snake - small
-plant: thing alive
 tree: plant large
 forest: tree many
 stick: tree part small
 fruit: plant - child
 seed: fruit start
-leaf: tree part triangle small
+leaf: tree part soft small
 root: tree part down
 bark: tree cover
 flower: plant good
 drink: eat water
-sun: fire large - sky
+sun: light large - sky
 sky: up outside
 now: time here
 shine: color emit
@@ -68,7 +106,6 @@ skin: body part cover
 rope: thing long flexible
 meat: animal body part - eat
 blood: body part inside water
-food: thing eat
 bone
 fat (noun)
 egg: bird child - start

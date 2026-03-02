@@ -11,7 +11,7 @@ export default function generate_forward_dictionary(out) {
     [c.word]: (a[c.word] || 0) + 1
   }), {})
   const dups = Object.keys(counts)
-        .filter(word => counts[word] > 1)
+    .filter(word => counts[word] > 1)
 
   if (dups.length)
     console.log('duplicates:', dups)
@@ -23,7 +23,7 @@ export default function generate_forward_dictionary(out) {
       .map(e => [
         `<strong>${e.word}</strong>`,
         `<i>${e.translation}</i>`,
-        e.primitives.map(p => `<img src="../symbols/${p}.png" height="20">`).join(''),
-        e.primitives.join(' ')
+        e.bases.map(p => `<img src="../glyphs/${p}.png" height="20">`).join(''),
+        e.bases.join(' ')
       ]), { 0: 2, 1: 3 })))
 }

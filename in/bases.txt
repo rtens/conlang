@@ -1,0 +1,64 @@
+# Syntax
+i: ., (sentence)
+u: _, (context)
+e: !, (verb)
+a: >, (object)
+o: -, (noun_group)
+
+# Category
+ti: thing / certain / exist
+ma: person / belonging_to / own
+ki: place / here / put
+ko: number / number_literal / count
+
+# Modifier
+na: opposite / not / negate
+ke: question / unknown / search
+me: possibility / maybe / can
+
+# Relation
+su: up / above / lift
+fe: front / before / put_before
+ku: side / besides / set_aside
+lo: inside / in / add
+mo: direction / towards / move
+
+# Shape
+la: size / large / to_value
+po: smoothness / smooth / smoothen
+pi: circle / round / turn
+pe: opening / open / to_open
+
+# Quality
+fo: weight / heavy / weigh
+pu: water / wet / to_wet
+fa: warmth / warm / to_warm
+li: goodness / good / like
+no: cleanliness / clean / to_clean
+so: speed / fast / to_speed
+si: plant / alive / to_life
+
+# Sense
+ka: light / bright / show
+fu: air / airy / blow
+to: softness / soft / touch
+te: sound / loud / speak
+fi: emotion / happy / feel
+mi: food / tasty / eat
+
+# Quantity
+ni: unit / single / choose
+pa: pair / together / combine
+mu: group / many / collect
+sa: everything / all / fill
+
+# Action
+nu: beginning / new / start
+tu: tool / used / use
+ta: change / changed / transform
+lu: container / contained / carry
+le: repeatition / repeating / repeat
+
+-- Unused
+ne
+se

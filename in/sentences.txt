@@ -2,14 +2,14 @@
 
 The sun shines. : . sun ! shine
 The sun is shining. : . now _ sun ! shine
-The sun shone.
-The sun will shine.
-The sun has been shining.
-The sun is shining again.
-The sun will shine tomorrow.
-The sun shines brightly.
-The bright sun shines.
-The sun is rising now.
+The sun shone. : . past _ sun ! shine
+The sun will shine. : . future _ sun (verb) shine
+The sun has been shining. : (sentence) past (context) sun (verb) shine
+The sun is shining again. : (sentence) sun (verb) shine repeat
+The sun will shine tomorrow. : (sentence) tomorrow (context) sun (verb) shine
+The sun shines brightly. : (sentence) sun (verb) shine bright
+The bright sun shines. : (sentence) sun - bright (verb) shine
+The sun is rising now. : (sentence) now (context) sun (verb) rise
 All the people shouted.
 Some of the people shouted.
 Many of the people shouted twice.

@@ -678,3 +678,12 @@ year
 yellow
 yesterday
 young
+
+# sentences
+
+past: time before
+future: time after
+after: back
+tomorrow: day after
+day: time repeat
+rise: move up

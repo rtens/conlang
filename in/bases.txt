@@ -22,7 +22,7 @@ fe: front / before / put_before
 ku: side / besides / set_aside
 lo: inside / in / add
 mo: direction / towards / move
-se: distance / different / separate
+ne: distance / different / separate
 
 # Shape
 la: size / large / to_value
@@ -61,4 +61,4 @@ lu: container / contained / carry
 le: repeatition / repeating / repeat
 
 -- Unused
-ne
+se

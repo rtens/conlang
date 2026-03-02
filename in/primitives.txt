@@ -46,7 +46,7 @@ nu: start, create, begin - end, result
 
 # Aux
 na: not, opposite, false - same, true, equals
-lo: that - other
+lo: this - that
 ki: here - there
 
 # Entity

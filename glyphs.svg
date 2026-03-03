@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.359385"
-     inkscape:cx="282.84849"
-     inkscape:cy="394.29595"
+     inkscape:zoom="1.9224607"
+     inkscape:cx="279.58959"
+     inkscape:cy="475.43234"
      inkscape:window-width="2560"
      inkscape:window-height="1346"
      inkscape:window-x="1285"
@@ -42,14 +42,22 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#dadada;fill-opacity:1;stroke-width:0.705556;stroke-linecap:round"
+       id="rect1981"
+       width="138.19055"
+       height="196.97018"
+       x="0.77853829"
+       y="3.3087876" />
     <g
        id="g609"
        transform="translate(-109.8212,-5.4422468)"
        inkscape:export-filename="glyphs\fa.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1837"
          width="6.7318258"
          height="7.9375"
@@ -68,9 +76,10 @@
        transform="translate(-99.283182,7.8172289)"
        inkscape:export-filename="glyphs\tu.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1833"
          width="6.7318258"
          height="7.9375"
@@ -91,7 +100,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705555;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705555;stroke-linecap:round"
          id="rect386"
          width="5.0835829"
          height="7.9375"
@@ -112,7 +121,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1005"
          width="5.7354608"
          height="7.9375"
@@ -128,9 +137,12 @@
     </g>
     <g
        id="g879"
-       transform="translate(3.1670695,0.08757482)">
+       transform="translate(3.1670695,0.08757482)"
+       inkscape:export-filename="glyphs\ne_.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1005-7"
          width="5.7354608"
          height="7.9375"
@@ -148,7 +160,7 @@
        id="g1130"
        transform="translate(2.1437053,-0.18767822)">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1751-66"
          width="8.5568228"
          height="7.9375"
@@ -172,7 +184,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect999"
          width="6.458005"
          height="7.9375"
@@ -193,7 +205,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1001"
          width="6.458005"
          height="7.9375"
@@ -209,12 +221,12 @@
     </g>
     <g
        id="g477"
-       transform="translate(-62.149104,-16.726345)"
+       transform="translate(-52.239929,-17.276855)"
        inkscape:export-filename="glyphs\e.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1003"
          width="5.7354608"
          height="7.9375"
@@ -235,7 +247,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1783"
          width="6.9741073"
          height="7.9375"
@@ -256,7 +268,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1831"
          width="6.7318258"
          height="7.9375"
@@ -277,7 +289,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1751-6"
          width="7.937499"
          height="7.9375"
@@ -298,7 +310,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1791"
          width="6.9741073"
          height="7.9375"
@@ -319,7 +331,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect997"
          width="7.1117353"
          height="7.9375"
@@ -340,7 +352,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1851"
          width="6.6831675"
          height="7.9375"
@@ -356,9 +368,10 @@
     </g>
     <g
        id="g922"
-       transform="translate(-1.4709344,0.96339417)">
+       transform="translate(-1.4709344,0.96339417)"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1005-9-6"
          width="8.0751276"
          height="7.9375"
@@ -377,9 +390,10 @@
        transform="translate(-40.060976,-102.01986)"
        inkscape:export-filename="glyphs\ma.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1793"
          width="6.9741073"
          height="7.9375"
@@ -398,9 +412,10 @@
        transform="translate(-73.410864,-79.208127)"
        inkscape:export-filename="glyphs\ni.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1787"
          width="6.5612249"
          height="7.9375"
@@ -419,9 +434,10 @@
        transform="translate(-109.4806,-71.309918)"
        inkscape:export-filename="glyphs\pe.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1835"
          width="6.7318258"
          height="7.9375"
@@ -442,7 +458,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1751"
          width="8.5568228"
          height="7.9375"
@@ -465,7 +481,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1007"
          width="7.593431"
          height="7.9375"
@@ -484,9 +500,10 @@
     </g>
     <g
        id="g1020"
-       transform="translate(-26.698471,2.064415)">
+       transform="translate(-26.698471,2.064415)"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1007-7"
          width="8.3503819"
          height="7.9375"
@@ -511,7 +528,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1827"
          width="7.6320109"
          height="7.9375"
@@ -530,9 +547,10 @@
        transform="translate(-18.052586,45.453113)"
        inkscape:export-filename="glyphs\se.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705555;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705555;stroke-linecap:round"
          id="rect1745"
          width="7.9719067"
          height="7.9375"
@@ -551,9 +569,10 @@
        transform="translate(-3.1033268,-32.879331)"
        inkscape:export-filename="glyphs\si.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1775"
          width="7.937499"
          height="7.9375"
@@ -572,9 +591,10 @@
        transform="translate(22.75678,-85.951871)"
        inkscape:export-filename="glyphs\fi.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1789"
          width="6.9741073"
          height="7.9375"
@@ -593,9 +613,10 @@
        transform="translate(-120.58912,7.4047839)"
        inkscape:export-filename="glyphs\pu.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1839"
          width="9.9189672"
          height="7.9375"
@@ -615,9 +636,10 @@
        transform="matrix(-1,0,0,1,172.70759,0.00866574)"
        inkscape:export-filename="glyphs\ka.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1841"
          width="8.7025013"
          height="7.9375"
@@ -636,9 +658,10 @@
        transform="translate(-39.407244,-94.175664)"
        inkscape:export-filename="glyphs\so.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1795"
          width="8.5912294"
          height="7.9375"
@@ -657,9 +680,10 @@
        transform="translate(-79.38695,45.693385)"
        inkscape:export-filename="glyphs\po.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1749"
          width="8.5568228"
          height="7.9375"
@@ -678,9 +702,10 @@
        transform="matrix(-1,0,0,1,171.51547,-93.740117)"
        inkscape:export-filename="glyphs\pa.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1845"
          width="6.5371914"
          height="7.9375"
@@ -699,9 +724,10 @@
        transform="translate(11.631376,33.410151)"
        inkscape:export-filename="glyphs\la.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1009"
          width="9.1073332"
          height="7.9375"
@@ -721,9 +747,10 @@
        transform="translate(-4.1527268,-41.257955)"
        inkscape:export-filename="glyphs\fe.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1779"
          width="6.9741073"
          height="7.9375"
@@ -743,9 +770,10 @@
        transform="translate(-100.60428,108.35221)"
        inkscape:export-filename="glyphs\fu.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1013"
          width="8.3159752"
          height="7.9375"
@@ -764,9 +792,10 @@
        transform="translate(-73.032393,-13.465158)"
        inkscape:export-filename="glyphs\me.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1785"
          width="6.9741073"
          height="7.9375"
@@ -785,9 +814,10 @@
        transform="translate(-7.0859629,137.89231)"
        inkscape:export-filename="glyphs\lu.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1743"
          width="6.0795293"
          height="7.9375"
@@ -803,9 +833,10 @@
     </g>
     <g
        id="g1072"
-       transform="translate(-25.713344,-0.72094207)">
+       transform="translate(-25.713344,-0.72094207)"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1743-6"
          width="6.0795293"
          height="7.9375"
@@ -821,9 +852,10 @@
     </g>
     <g
        id="g1046"
-       transform="translate(-25.903026,-0.72094207)">
+       transform="translate(-25.903026,-0.72094207)"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1829-7"
          width="11.111104"
          height="7.9375"
@@ -843,9 +875,10 @@
        transform="matrix(-1,0,0,1,241.23558,35.089178)"
        inkscape:export-filename="glyphs\ku.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1829"
          width="11.111104"
          height="7.9375"
@@ -861,9 +894,10 @@
     </g>
     <g
        id="g1098"
-       transform="translate(-25.490146,-0.48170596)">
+       transform="translate(-25.490146,-0.48170596)"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1829-7-6"
          width="11.111104"
          height="7.9375"
@@ -883,9 +917,10 @@
        transform="translate(-39.854532,-47.806681)"
        inkscape:export-filename="glyphs\mi.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1801"
          width="7.5590234"
          height="7.9375"
@@ -904,9 +939,10 @@
        transform="translate(-79.283724,152.89368)"
        inkscape:export-filename="glyphs\te.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1011"
          width="6.458005"
          height="7.9375"
@@ -925,9 +961,10 @@
        transform="translate(-38.650294,-86.421324)"
        inkscape:export-filename="glyphs\ne.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1797"
          width="9.6922483"
          height="7.9375"
@@ -946,16 +983,17 @@
        transform="translate(-132.69842,-86.21173)"
        inkscape:export-filename="glyphs\mu.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1849"
          width="6.6831675"
          height="7.9375"
          x="149.00865"
          y="202.83047" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1847"
          width="6.6831675"
          height="7.9375"
@@ -974,9 +1012,10 @@
        transform="translate(-49.028124,-10.278998)"
        inkscape:export-filename="glyphs\ta.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1777"
          width="8.728857"
          height="7.9375"
@@ -995,9 +1034,10 @@
        transform="translate(-62.735018,-29.163347)"
        inkscape:export-filename="glyphs\le.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1843"
          width="9.9189672"
          height="7.9375"
@@ -1016,9 +1056,10 @@
        transform="translate(-76.78511,48.009261)"
        inkscape:export-filename="glyphs\li.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1801-0"
          width="6.3182278"
          height="7.9375"
@@ -1038,9 +1079,10 @@
        transform="translate(-71.5185,24.030913)"
        inkscape:export-filename="glyphs\sa.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1781"
          width="8.728857"
          height="7.9375"
@@ -1059,9 +1101,10 @@
        transform="translate(-17.983776,53.400523)"
        inkscape:export-filename="glyphs\fo.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1747"
          width="8.5568228"
          height="7.9375"
@@ -1083,7 +1126,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect559"
          width="7.7497802"
          height="7.9375"
@@ -1104,7 +1147,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect496"
          width="6.458005"
          height="7.9375"
@@ -1125,7 +1168,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect502"
          width="7.937499"
          height="7.9375"
@@ -1146,7 +1189,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect508"
          width="6.6831675"
          height="7.9375"
@@ -1167,7 +1210,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect514"
          width="7.7497802"
          height="7.9375"
@@ -1188,7 +1231,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect520"
          width="7.6320109"
          height="7.9375"
@@ -1204,9 +1247,10 @@
     </g>
     <g
        id="g905"
-       transform="translate(-1.534964,0.41287994)">
+       transform="translate(-1.534964,0.41287994)"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1005-9"
          width="8.0751276"
          height="7.9375"
@@ -1222,9 +1266,10 @@
     </g>
     <g
        id="g939"
-       transform="translate(1.033845,0.61932373)">
+       transform="translate(1.033845,0.61932373)"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1005-9-0"
          width="8.0751276"
          height="7.9375"
@@ -1240,9 +1285,10 @@
     </g>
     <g
        id="g956"
-       transform="translate(2.0185831)">
+       transform="translate(2.0185831)"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1005-9-3"
          width="8.0751276"
          height="7.9375"
@@ -1261,9 +1307,10 @@
        transform="matrix(-1,0,0,1,123.04745,-79.208127)"
        inkscape:export-filename="glyphs\ni.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect532"
          width="6.5612249"
          height="7.9375"
@@ -1282,9 +1329,10 @@
        transform="matrix(1,0,0,-1,-121.90292,304.33624)"
        inkscape:export-filename="glyphs\pa.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect538"
          width="6.5371914"
          height="7.9375"
@@ -1303,16 +1351,17 @@
        transform="rotate(180,91.228478,163.69336)"
        inkscape:export-filename="glyphs\mu.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect544"
          width="6.6831675"
          height="7.9375"
          x="149.00865"
          y="202.83047" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect546"
          width="6.6831675"
          height="7.9375"
@@ -1331,9 +1380,10 @@
        transform="rotate(180,75.997812,82.539338)"
        inkscape:export-filename="glyphs\fu.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect558"
          width="8.3159752"
          height="7.9375"
@@ -1353,9 +1403,9 @@
        inkscape:export-filename="glyphs\fu.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
-       style="stroke-width:1.02356">
+       style="stroke-width:1.02356;fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.722181;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.722181;stroke-linecap:round"
          id="rect564"
          width="8.3159752"
          height="7.9375"
@@ -1375,9 +1425,9 @@
        inkscape:export-filename="glyphs\fu.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
-       style="stroke-width:1.02356">
+       style="stroke-width:1.02356;fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.722181;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.722181;stroke-linecap:round"
          id="rect570"
          width="8.3159752"
          height="7.9375"
@@ -1393,9 +1443,10 @@
     </g>
     <g
        id="g982"
-       transform="translate(-0.57635741,-0.40778535)">
+       transform="translate(-0.57635741,-0.40778535)"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect1785-2"
          width="6.9741073"
          height="7.9375"
@@ -1414,11 +1465,13 @@
        transform="rotate(-90,61.221771,179.76895)"
        inkscape:export-filename="glyphs\me.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <g
-         id="g986">
+         id="g986"
+         style="fill:none">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+           style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
            id="rect578"
            width="7.9375"
            height="7.9375"
@@ -1438,9 +1491,10 @@
        transform="matrix(-1,0,0,1,123.32272,24.030913)"
        inkscape:export-filename="glyphs\sa.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect584"
          width="8.728857"
          height="7.9375"
@@ -1459,9 +1513,10 @@
        transform="rotate(-90,32.650985,233.96932)"
        inkscape:export-filename="glyphs\mi.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect590"
          width="7.9375"
          height="7.9375"
@@ -1480,9 +1535,10 @@
        transform="rotate(90,85.805543,166.59449)"
        inkscape:export-filename="glyphs\mi.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect596"
          width="7.9375"
          height="7.9375"
@@ -1501,9 +1557,10 @@
        transform="translate(-60.983309,45.650481)"
        inkscape:export-filename="glyphs\ku.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect614"
          width="11.111104"
          height="7.9375"
@@ -1522,9 +1579,10 @@
        transform="matrix(-1,0,0,1,237.43311,148.45361)"
        inkscape:export-filename="glyphs\lu.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect837"
          width="6.0795293"
          height="7.9375"
@@ -1543,9 +1601,10 @@
        transform="matrix(-1,0,0,1,167.8723,-41.257955)"
        inkscape:export-filename="glyphs\fe.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect843"
          width="6.9741073"
          height="7.9375"
@@ -1565,9 +1624,10 @@
        transform="matrix(-1,0,0,1,168.52602,-85.951871)"
        inkscape:export-filename="glyphs\fi.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
          id="rect849"
          width="6.9741073"
          height="7.9375"
@@ -1586,11 +1646,13 @@
        transform="rotate(90,79.858631,135.05237)"
        inkscape:export-filename="glyphs\me.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <g
-         id="g992">
+         id="g992"
+         style="fill:none">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+           style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
            id="rect988"
            width="7.9375"
            height="7.9375"
@@ -1610,9 +1672,10 @@
        transform="matrix(-1,0,0,1,232.61335,9.8403613)"
        inkscape:export-filename="glyphs\so.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       style="fill:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705556;stroke-linecap:round"
          id="rect1100"
          width="6.0795293"
          height="7.9375"

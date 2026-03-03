@@ -1,9 +1,9 @@
 # Syntax
-i: ., (period)
-u: +, (context)
-e: !, (verb)
-a: >, (object)
-o: -, (group)
+i: (period)
+u: (context)
+e: (verb)
+a: (object)
+o: (group)
 
 # Category
 ti: thing / certain / exist
@@ -20,8 +20,8 @@ me: ability / possible / can
 # Relation
 su: up / above / lift
 fe: front / before / display
-ku: side / besides / ignore
-lo: inside / in / add
+ka: side / besides / ignore
+lu: inside / in / add
 to: direction / towards / come
 ne: distance / different / separate
 
@@ -37,10 +37,10 @@ pu: water / wet / to_wet
 fa: warmth / warm / to_warm
 li: goodness / good / like
 no: cleanliness / clean / to_clean
-si: life / alive / to_life
+lo: life / alive / to_life
 
 # Sense
-ka: light / bright / see
+si: light / bright / see
 fu: air / airy / blow
 so: softness / soft / touch
 te: sound / loud / speak
@@ -58,5 +58,5 @@ mo: movement / moving / move
 nu: beginning / new / start
 tu: tool / used / use
 ta: change / changed / transform
-lu: container / contained / carry
+ku: container / contained / carry
 le: repeatition / repeating / repeat

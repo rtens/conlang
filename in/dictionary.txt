@@ -1,3 +1,11 @@
+# Syntax marks
+
+.: (period)
++: (context)
+!: (verb)
+>: (object)
+-: (group)
+
 # Negations
 
 idea: thing not

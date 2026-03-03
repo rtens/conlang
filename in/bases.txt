@@ -7,21 +7,22 @@ o: -, (noun_group)
 
 # Category
 ti: thing / certain / exist
-ma: person / belonging_to / own
+ma: person / personal / to_own
 ki: place / here / put
-ko: number / number_literal / count
+se: time / ongoing / happen
+ko: number / numbered / count
 
 # Modifier
 na: opposite / not / negate
 ke: question / unknown / search
-me: possibility / maybe / can
+me: ability / possible / can
 
 # Relation
 su: up / above / lift
-fe: front / before / put_before
-ku: side / besides / set_aside
+fe: front / before / display
+ku: side / besides / ignore
 lo: inside / in / add
-mo: direction / towards / move
+to: direction / towards / come
 ne: distance / different / separate
 
 # Shape
@@ -36,14 +37,13 @@ pu: water / wet / to_wet
 fa: warmth / warm / to_warm
 li: goodness / good / like
 no: cleanliness / clean / to_clean
-so: speed / fast / to_speed
-si: plant / alive / to_life
+si: life / alive / to_life
 
 # Sense
-ka: light / bright / show
+ka: light / bright / see
 fu: air / airy / blow
-to: softness / soft / touch
-te: sound / loud / speak
+so: softness / soft / touch
+te: sound / loud / hear
 fi: emotion / happy / feel
 mi: food / tasty / eat
 
@@ -54,11 +54,9 @@ mu: group / many / collect
 sa: everything / all / fill
 
 # Action
+mo: movement / moving / move
 nu: beginning / new / start
 tu: tool / used / use
 ta: change / changed / transform
 lu: container / contained / carry
 le: repeatition / repeating / repeat
-
--- Unused
-se

@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.9224607"
-     inkscape:cx="279.58959"
-     inkscape:cy="475.43234"
+     inkscape:cx="201.04442"
+     inkscape:cy="401.56868"
      inkscape:window-width="2560"
      inkscape:window-height="1346"
      inkscape:window-x="1285"
@@ -42,13 +42,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#dadada;fill-opacity:1;stroke-width:0.705556;stroke-linecap:round"
-       id="rect1981"
-       width="138.19055"
-       height="196.97018"
-       x="0.77853829"
-       y="3.3087876" />
     <g
        id="g609"
        transform="translate(-109.8212,-5.4422468)"
@@ -74,7 +67,7 @@
     <g
        id="g601"
        transform="translate(-99.283182,7.8172289)"
-       inkscape:export-filename="glyphs\tu.png"
+       inkscape:export-filename="glyphs\ta.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">
@@ -138,7 +131,7 @@
     <g
        id="g879"
        transform="translate(3.1670695,0.08757482)"
-       inkscape:export-filename="glyphs\ne_.png"
+       inkscape:export-filename="glyphs\ne.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
@@ -201,7 +194,7 @@
     <g
        id="g473"
        transform="translate(-61.564189,-9.2600516)"
-       inkscape:export-filename="glyphs\a.png"
+       inkscape:export-filename="glyphs\u.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
@@ -222,7 +215,7 @@
     <g
        id="g477"
        transform="translate(-52.239929,-17.276855)"
-       inkscape:export-filename="glyphs\e.png"
+       inkscape:export-filename="glyphs\a.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
@@ -327,7 +320,7 @@
     <g
        id="g465"
        transform="translate(-61.839449,32.746492)"
-       inkscape:export-filename="glyphs\u.png"
+       inkscape:export-filename="glyphs\e.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
@@ -432,7 +425,7 @@
     <g
        id="g605"
        transform="translate(-109.4806,-71.309918)"
-       inkscape:export-filename="glyphs\pe.png"
+       inkscape:export-filename="glyphs\fi.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">
@@ -454,7 +447,7 @@
     <g
        id="g517"
        transform="translate(-45.771835,-46.30486)"
-       inkscape:export-filename="glyphs\no.png"
+       inkscape:export-filename="glyphs\sa.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
@@ -524,7 +517,7 @@
     <g
        id="g589"
        transform="translate(-36.680217,-83.803699)"
-       inkscape:export-filename="glyphs\mo.png"
+       inkscape:export-filename="glyphs\no.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
@@ -545,7 +538,7 @@
     <g
        id="g505"
        transform="translate(-18.052586,45.453113)"
-       inkscape:export-filename="glyphs\se.png"
+       inkscape:export-filename="glyphs\te.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">
@@ -589,7 +582,7 @@
     <g
        id="g553"
        transform="translate(22.75678,-85.951871)"
-       inkscape:export-filename="glyphs\fi.png"
+       inkscape:export-filename="glyphs\ku.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">
@@ -634,7 +627,7 @@
     <g
        id="g617"
        transform="matrix(-1,0,0,1,172.70759,0.00866574)"
-       inkscape:export-filename="glyphs\ka.png"
+       inkscape:export-filename="glyphs\fu.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">
@@ -656,7 +649,7 @@
     <g
        id="g565"
        transform="translate(-39.407244,-94.175664)"
-       inkscape:export-filename="glyphs\so.png"
+       inkscape:export-filename="glyphs\mi.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">
@@ -768,7 +761,7 @@
     <g
        id="g497"
        transform="translate(-100.60428,108.35221)"
-       inkscape:export-filename="glyphs\fu.png"
+       inkscape:export-filename="glyphs\li.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">
@@ -790,7 +783,7 @@
     <g
        id="g545"
        transform="translate(-73.032393,-13.465158)"
-       inkscape:export-filename="glyphs\me.png"
+       inkscape:export-filename="glyphs\ku.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">
@@ -915,7 +908,7 @@
     <g
        id="g577"
        transform="translate(-39.854532,-47.806681)"
-       inkscape:export-filename="glyphs\mi.png"
+       inkscape:export-filename="glyphs\me.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">
@@ -937,7 +930,7 @@
     <g
        id="g493"
        transform="translate(-79.283724,152.89368)"
-       inkscape:export-filename="glyphs\te.png"
+       inkscape:export-filename="glyphs\pe.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">
@@ -959,7 +952,7 @@
     <g
        id="g569"
        transform="translate(-38.650294,-86.421324)"
-       inkscape:export-filename="glyphs\ne.png"
+       inkscape:export-filename="glyphs\tu.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">
@@ -1010,7 +1003,7 @@
     <g
        id="g529"
        transform="translate(-49.028124,-10.278998)"
-       inkscape:export-filename="glyphs\ta.png"
+       inkscape:export-filename="glyphs\so.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">
@@ -1054,7 +1047,7 @@
     <g
        id="g581"
        transform="translate(-76.78511,48.009261)"
-       inkscape:export-filename="glyphs\li.png"
+       inkscape:export-filename="glyphs\se.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">
@@ -1077,7 +1070,7 @@
     <g
        id="g533"
        transform="translate(-71.5185,24.030913)"
-       inkscape:export-filename="glyphs\sa.png"
+       inkscape:export-filename="glyphs\pi.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">
@@ -1510,8 +1503,8 @@
     </g>
     <g
        id="g594"
-       transform="rotate(-90,32.650985,233.96932)"
-       inkscape:export-filename="glyphs\mi.png"
+       transform="matrix(0,-1,-1,0,241.87631,266.62031)"
+       inkscape:export-filename="glyphs\ke.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">
@@ -1527,12 +1520,13 @@
          inkscape:export-ydpi="300" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.705556;stroke-linecap:round;stroke-opacity:1"
-         d="m 91.096769,218.66617 0.10322,6.0212 c 0,0 0.03441,-3.64713 1.720343,-3.71594 1.685936,-0.0688 1.720343,3.68153 1.720343,3.68153"
-         id="path592" />
+         d="m 91.096769,218.66617 0.10322,6.0212 c 0,0 1.204243,-5.09222 2.890176,-5.16103 1.685936,-0.0688 1.376275,4.85137 1.376275,4.85137"
+         id="path592"
+         sodipodi:nodetypes="ccsc" />
     </g>
     <g
        id="g600"
-       transform="rotate(90,85.805543,166.59449)"
+       transform="rotate(90,85.805544,166.59449)"
        inkscape:export-filename="glyphs\mi.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
@@ -1670,7 +1664,7 @@
     <g
        id="g1104"
        transform="matrix(-1,0,0,1,232.61335,9.8403613)"
-       inkscape:export-filename="glyphs\so.png"
+       inkscape:export-filename="glyphs\mo.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        style="fill:none">

@@ -2,7 +2,6 @@
 
 idea: thing not
 animal: person not
-time: place not
 name: number not
 same: opposite not
 what: question
@@ -21,8 +20,6 @@ cold: warm not
 dirty: clean not
 slow: fast not
 dark: bright not
-hear: speak not
-this: here
 that: this not
 make: transform
 hard: soft not
@@ -34,9 +31,22 @@ emit: show
 result: end
 end: beginning not
 flexible: soft
-see: show not
 smell: blow not
 desire: like
+hear: speak not
+
+# Sentences
+
+fast: move many
+plant: life
+past: time before
+future: time after
+after: back
+tomorrow: day after
+day: time repeat
+rise: move up
+show: display
+here: place this
 
 # https://en.wikipedia.org/wiki/Swadesh_list
 
@@ -44,7 +54,7 @@ I: person here
 you: I not
 he: person that
 we: I many
-you_plural: you many
+you(plural): you many
 they: he many
 who: person what
 where: place what
@@ -54,7 +64,7 @@ some: many not
 four: number pair pair
 ten: number pair repeat many
 twenty: number pair pair repeat many
-tenty-five: number many repeat many
+tenty_five: number many repeat many
 long: side large
 wide: front large
 thick: around large
@@ -108,7 +118,7 @@ meat: animal body part - eat
 blood: body part inside water
 bone
 fat (noun)
-egg: bird child - start
+egg: bird - child start
 horn
 tail
 feather: bird - skin soft
@@ -678,12 +688,3 @@ year
 yellow
 yesterday
 young
-
-# sentences
-
-past: time before
-future: time after
-after: back
-tomorrow: day after
-day: time repeat
-rise: move up

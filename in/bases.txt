@@ -1,14 +1,14 @@
 # Syntax
-i: ., (sentence)
-u: _, (context)
+i: ., (period)
+u: +, (context)
 e: !, (verb)
 a: >, (object)
-o: -, (noun_group)
+o: -, (group)
 
 # Category
 ti: thing / certain / exist
 ma: person / personal / to_own
-ki: place / here / put
+ki: place / this / put
 se: time / ongoing / happen
 ko: number / numbered / count
 
@@ -43,7 +43,7 @@ si: life / alive / to_life
 ka: light / bright / see
 fu: air / airy / blow
 so: softness / soft / touch
-te: sound / loud / hear
+te: sound / loud / speak
 fi: emotion / happy / feel
 mi: food / tasty / eat
 

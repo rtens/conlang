@@ -1,15 +1,15 @@
 # https://cofl.github.io/conlang/resources/mirror/conlang-syntax-test-cases.html
 
-The sun shines. : . sun ! shine
-The sun is shining. : . now _ sun ! shine
-The sun shone. : . past _ sun ! shine
-The sun will shine. : . future _ sun (verb) shine
-The sun has been shining. : (sentence) past (context) sun (verb) shine
-The sun is shining again. : (sentence) sun (verb) shine repeat
-The sun will shine tomorrow. : (sentence) tomorrow (context) sun (verb) shine
-The sun shines brightly. : (sentence) sun (verb) shine bright
-The bright sun shines. : (sentence) sun - bright (verb) shine
-The sun is rising now. : (sentence) now (context) sun (verb) rise
+The sun shines. : sun ! shine .
+The sun is shining. : now + sun ! shine .
+The sun shone. : past + sun ! shine .
+The sun will shine. : future + sun ! shine .
+The sun has been shining. : past + sun ! shine ! end .
+The sun is shining again. : sun ! shine repeat .
+The sun will shine tomorrow. : tomorrow + sun ! shine .
+The sun shines brightly. : sun ! shine bright .
+The bright sun shines. : sun - bright ! shine .
+The sun is rising now. : now + sun ! rise ongoing .
 All the people shouted.
 Some of the people shouted.
 Many of the people shouted twice.
@@ -364,5 +364,5 @@ Your things are all here.
 
 # Other
 
-My back itches. : . back(body) - I ! itch
-Please scratch my back. : . I ! desire _ you ! scratch > back(body) - I
+My back itches. : back(body) - I ! itch .
+Please scratch my back. : I ! desire + you ! scratch > back(body) - I .

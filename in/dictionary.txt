@@ -39,9 +39,8 @@ emit: show
 result: end
 end: beginning not
 flexible: soft
-smell: blow not
 desire: like
-hear: speak not
+speak: hear not
 shine: see not
 
 # Sentences

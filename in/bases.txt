@@ -41,9 +41,9 @@ lo: life / alive / to_life
 
 # Sense
 si: light / bright / see
-fu: air / airy / blow
+fu: air / airy / smell
 so: softness / soft / touch
-te: sound / loud / speak
+te: sound / loud / hear
 fi: emotion / happy / feel
 mi: food / tasty / eat
 

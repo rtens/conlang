@@ -1,6 +1,6 @@
 # Syntax marks
 
-.: (period)
+.: (sentence)
 +: (context)
 !: (verb)
 >: (object)
@@ -56,6 +56,7 @@ day: time repeat
 rise: move up
 show: display
 here: place this
+love: like like
 
 # https://en.wikipedia.org/wiki/Swadesh_list
 

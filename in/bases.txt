@@ -1,5 +1,5 @@
 # Syntax
-i: (period)
+i: (sentence)
 u: (context)
 e: (verb)
 a: (object)

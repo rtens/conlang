@@ -10,7 +10,7 @@ export default function generate_bases(out) {
     .reduce((a, g) => [...a, ...(a.includes(g) ? [] : [g])], [])
 
   save(out, page(
-    title('bases'),
+    title('Bases'),
     ...groups.map(group => section(
       heading(group),
       table(bases
@@ -22,5 +22,5 @@ export default function generate_bases(out) {
           b.qualifier.join(', '),
           b.verb.join(', '),
         ]),
-        { 0: 1, 1: 1 })))))
+        [1, 1, '3 col-lg-2', '3 col-lg-2', '3 col-lg-2'])))))
 }

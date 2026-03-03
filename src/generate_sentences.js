@@ -19,7 +19,7 @@ export default function generate_sentences(out, console) {
 		}))
 
 	save(out, page(
-		title('Dictionary (Reverse)'),
+		title('Sentences'),
 		table(translate(sentences, console)
 			.map(e => [
 				`<strong>${e.sentence}</strong>`,
@@ -28,5 +28,5 @@ export default function generate_sentences(out, console) {
 					`<img src="../glyphs/${p}.png" height="20">`)
 					.join(''),
 				e.bases.join(' ')
-			]), { 0: 2, 1: 2 })))
+			]), ['6 col-lg-2', '6 col-lg-2', '6 col-lg', '6 col-lg'])))
 }

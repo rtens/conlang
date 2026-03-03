@@ -31,10 +31,10 @@ export function heading(text) {
   return `<h2 class="mt-4 mb-2"> ${text}</h2>`
 }
 
-export function table(cells, widths = {}) {
-  return `<div>\n${cells.map(row =>
-    ` <div class="row">\n${row.map((cell, c) =>
-      `  <div class="col-sm${widths[c] ? '-' + widths[c] : ''}">${cell}</div>`)
+export function table(cells, cols = []) {
+  return `<div>\n${cells.map((row, i) =>
+    ` <div class="row${i % 2 ? ' text-bg-light' : ''}">\n${row.map((cell, c) =>
+      `  <div class="col${cols[c] ? '-' + cols[c] : ''}">${cell}</div>`)
       .join('\n')}\n </div>`)
     .join('\n')}\n</div>`
 }

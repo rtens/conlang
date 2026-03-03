@@ -5,13 +5,13 @@ import { page, title, table } from './html.js'
 
 export default function generate_reverse_dictionary(out, console) {
 	save(out, page(
-		title('Dictionary (Reverse)'),
+		title('Dictionary (reverse)'),
 		table(translate(load_dictionary(), console)
 			.toSorted((a, b) => a.bases.join('') < b.bases.join('') ? -1 : 1)
 			.map(e => [
-				`<strong>${e.bases.join(' ')}</strong>`,
 				e.bases.map(p => `<img src="../glyphs/${p}.png" height="20">`).join(''),
+				`<strong>${e.bases.join(' ')}</strong>`,
 				e.word,
 				`<i>${e.translation}</i>`,
-			]), { 0: 3, 1: 4 })))
+			]), ['6 col-lg', '6 col-lg', '6 col-lg-1', '6 col-lg-2'])))
 }

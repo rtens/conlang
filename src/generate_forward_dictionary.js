@@ -25,5 +25,5 @@ export default function generate_forward_dictionary(out, console) {
 				`<i>${e.translation}</i>`,
 				e.bases.map(p => `<img src="../glyphs/${p}.png" height="20">`).join(''),
 				e.bases.join(' ')
-			]), { 0: 2, 1: 3 })))
+			]), ['6 col-lg-1', '6 col-lg-2', '6 col-lg', '6 col-lg'])))
 }

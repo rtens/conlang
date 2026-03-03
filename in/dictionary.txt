@@ -42,6 +42,7 @@ flexible: soft
 smell: blow not
 desire: like
 hear: speak not
+shine: see not
 
 # Sentences
 
@@ -113,8 +114,7 @@ drink: eat water
 sun: light large - sky
 sky: up outside
 now: time here
-shine: color emit
-language: word many
+language: idea - word many
 word: speak
 why: result what
 back(body): body part back

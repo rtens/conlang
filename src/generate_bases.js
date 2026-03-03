@@ -16,8 +16,8 @@ export default function generate_bases(out) {
       table(bases
         .filter(b => b.group == group)
         .map(b => [
-          `<strong>${b.syllable}</strong>`,
           `<img src="../glyphs/${b.syllable}.png" height="20">`,
+          `<strong>${b.syllable}</strong>`,
           b.noun.join(', '),
           b.qualifier.join(', '),
           b.verb.join(', '),

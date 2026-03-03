@@ -58,7 +58,7 @@ here: place this
 
 # https://en.wikipedia.org/wiki/Swadesh_list
 
-I: person here
+I: person this
 you: I not
 he: person that
 we: I many

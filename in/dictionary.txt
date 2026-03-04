@@ -127,22 +127,22 @@ rope: thing long flexible
 meat: food animal
 blood: body inside water
 bone: body inside hard
-fat: body part inside soft
+fat: body inside soft
 egg: bird - child start
 horn: animal thing part top hard
 tail: animal thing part - end soft
 feather: bird - hair
 hair: skin soft
-head: body part top
+head: body part up
 ear: body part hear
 eye: body part see
 nose: body part smell
 mouth: body part eat
 tooth: mouth inside hard
 tongue: mouth inside soft
-hand: body part use
-fingernail: hand - part top hard
-foot: leg - part bottom
+hand: arm up
+fingernail: hand up hard
+foot: leg down
 top: up up
 bottom: down down
 knee: leg middle
@@ -150,11 +150,11 @@ wing: bird - arm
 belly: body part middle
 guts: body inside middle
 neck: head bottom
-breast: body part front up
+breast: body part middle up front
 heart: body inside feel
 liver: body inside clean
 face: head front
-arm: leg side
+arm: body part use
 bite: eat small
 suck: inhale water
 inhale: smell

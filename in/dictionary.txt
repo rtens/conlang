@@ -148,7 +148,6 @@ wing: bird - arm
 belly: body part - middle
 guts: body part - middle inside
 neck: head bottom
-back(bodypart): body part back
 breast: body part - front up
 heart: body part - feel inside
 liver: body part - soft inside - clean

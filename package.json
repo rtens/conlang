@@ -1,12 +1,20 @@
 {
-		"type": "module",
-		"scripts": {
-				"test": "ava test.js",
-				"retest": "ava --watch test.js",
-				"build": "node run.js",
-				"start": "node run build ; npx http-server"
-		},
-		"dependencies": {
-				"ava": "^6.4.1"
+	"name": "conlang",
+	"type": "module",
+	"scripts": {
+		"test": "ava test.js",
+		"retest": "ava --watch test.js",
+		"build": "node run.js",
+		"start": "node run build ; npx http-server"
+	},
+	"dependencies": {
+		"ava": "^6.4.1"
+	},
+	"ava": {
+		"watchMode": {
+			"ignoreChanges": [
+				"out/*.*"
+			]
 		}
+	}
 }

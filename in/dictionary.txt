@@ -124,11 +124,11 @@ skin: body part cover
 rope: thing long flexible
 meat: animal body part - eat
 blood: body part inside water
-bone
-fat (noun)
+bone: body part inside hard
+fat: body part inside soft
 egg: bird - child start
-horn
-tail
+horn: animal - body part - face up hard
+tail: animal - body part - end soft
 feather: bird - skin soft
 hair: skin soft
 head: body part - up
@@ -143,23 +143,22 @@ fingernail: hand - part top hard
 foot: leg - part bottom
 top: up up
 bottom: down down
-knee
-wing
-belly
-guts
-neck
-back (bodypart)
-breast
-heart
-liver
-drink
-eat
-bite
-suck
-spit
-vomit
-blow
-breathe
+knee: leg - part middle
+wing: bird - arm
+belly: body part - middle
+guts: body part - middle inside
+neck: head bottom
+back(bodypart): body part back
+breast: body part - front up
+heart: body part - feel inside
+liver: body part - soft inside - clean
+drink: eat water
+bite: eat part
+suck: inhale water
+spit: expell water
+vomit: expell food
+blow: inhale not
+breathe: inhale
 laugh
 see
 hear

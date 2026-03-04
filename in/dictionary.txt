@@ -35,7 +35,7 @@ with: together
 part: unit not
 cover: to_open not
 color: light
-emit: show
+emit: shine
 result: end
 end: beginning not
 flexible: soft
@@ -49,9 +49,11 @@ fast: move many
 plant: life
 past: time before
 future: time after
-after: back
+after: behind
+behind: back
 tomorrow: day after
-day: time repeat
+day: time loop
+loop: repeat
 rise: move up
 show: display
 here: place this
@@ -61,7 +63,7 @@ love: like like
 
 I: person this
 you: I not
-he: person that
+he: person this different
 we: I many
 you(plural): you many
 they: he many
@@ -87,78 +89,78 @@ man: person hard
 child: person small
 wife: woman pair
 husband: man pair
-mother: woman with child
-father: man with child
+mother: woman with - child
+father: man with - child
 fish: animal water
 bird: animal air
 dog: animal person
 tiny: small small
 jump: move up air
-louse: spider tiny
+louse: spider - tiny
 spider: animal small - leg - eight
 eight: number pair repeat pair pair
-leg: body part - move
+leg: body part move
 body: person thing
-snake: animal soft - long
-worm: snake - small
+snake: animal soft long
+worm: snake small
 tree: plant large
 forest: tree many
 stick: tree part small
 fruit: plant - child
 seed: fruit start
 leaf: tree part soft small
-root: tree part down
-bark: tree cover
+root: tree part bottom
+bark(tree): tree cover
 flower: plant good
 drink: eat water
-sun: light large - sky
+sun: light large sky
 sky: up outside
-now: time here
+now: time this
 language: idea - word many
-word: speak
+word: sound
 why: result what
 back(body): body part back
-itch: skin move bad
+itch: skin - move bad
 scratch: touch move rough
 skin: body part cover
 rope: thing long flexible
-meat: animal body part - eat
-blood: body part inside water
-bone: body part inside hard
+meat: food animal
+blood: body inside water
+bone: body inside hard
 fat: body part inside soft
 egg: bird - child start
-horn: animal - body part - face up hard
-tail: animal - body part - end soft
-feather: bird - skin soft
+horn: animal thing part top hard
+tail: animal thing part - end soft
+feather: bird - hair
 hair: skin soft
-head: body part - up
-ear: body part - hear
-eye: body part - see
-nose: body part - smell
-mouth: body part - eat
-tooth: mouth - part hard
-tongue: mouth - part soft
-hand: body part - use
+head: body part top
+ear: body part hear
+eye: body part see
+nose: body part smell
+mouth: body part eat
+tooth: mouth inside hard
+tongue: mouth inside soft
+hand: body part use
 fingernail: hand - part top hard
 foot: leg - part bottom
 top: up up
 bottom: down down
-knee: leg - part middle
+knee: leg middle
 wing: bird - arm
-belly: body part - middle
-guts: body part - middle inside
+belly: body part middle
+guts: body inside middle
 neck: head bottom
-breast: body part - front up
-heart: body part - feel inside
-liver: body part - soft inside - clean
+breast: body part front up
+heart: body inside feel
+liver: body inside clean
 face: head front
 arm: leg side
-bite: eat part
+bite: eat small
 suck: inhale water
 inhale: smell
-spit: expell water
-expell: eat not
-vomit: expell food
+spit: expel water
+expel: eat not
+vomit: expel food
 blow: inhale not
 breathe: inhale
 laugh
@@ -240,7 +242,6 @@ yellow
 white
 black
 night: time dark
-day
 year
 warm
 cold
@@ -345,7 +346,6 @@ crow
 dance
 dance
 danger
-day
 dear (darling)
 demand
 directly
@@ -375,7 +375,6 @@ faithful
 fall
 far
 fast
-father
 fear (v)
 feast
 feather
@@ -568,7 +567,6 @@ road
 roadside
 roll (v)
 room
-root
 rose
 run (v)
 sad

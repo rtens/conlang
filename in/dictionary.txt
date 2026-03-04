@@ -63,7 +63,8 @@ shout: speak loud
 two: number pair
 kitten: cat - animal small
 cat: dog not
-table: thing large flat - house inside
+table: furniture top smooth
+furniture: house - thing
 house: place person live
 little: small
 my: I

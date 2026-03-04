@@ -58,6 +58,16 @@ rise: move up
 show: display
 here: place this
 love: like like
+people: person many
+shout: speak loud
+two: number pair
+kitten: cat - animal small
+cat: dog not
+table: thing large flat - house inside
+house: place person live
+little: small
+my: I
+away: towards not
 
 # https://en.wikipedia.org/wiki/Swadesh_list
 

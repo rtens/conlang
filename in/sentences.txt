@@ -15,7 +15,7 @@ Some of the people shouted. : . past + people that - some ! shout .
 Many of the people shouted twice. : . past + people that - many ! shout ! repeat - two .
 Happy people often shout. : . people happy ! shout - time many .
 The kitten jumped up. . past + kitten ! jump.
-The kitten jumped onto the table. : . past + kitten ! jump > table above .
+The kitten jumped onto the table. : . past + kitten ! jump > up - table .
 My little kitten walked away. : . past + kitten little - my ! walk away .
 It's raining. : . now + ! rain .
 The rain came down. : . past + ! rain heavy .

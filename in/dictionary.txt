@@ -152,10 +152,13 @@ back(bodypart): body part back
 breast: body part - front up
 heart: body part - feel inside
 liver: body part - soft inside - clean
-drink: eat water
+face: head front
+arm: leg side
 bite: eat part
 suck: inhale water
+inhale: smell
 spit: expell water
+expell: eat not
 vomit: expell food
 blow: inhale not
 breathe: inhale

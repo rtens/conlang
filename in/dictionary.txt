@@ -120,7 +120,7 @@ language: idea - word many
 word: sound
 why: result what
 back(body): body part back
-itch: skin - move bad
+itch: move bad - skin
 scratch: touch move rough
 skin: body part cover
 rope: thing long flexible

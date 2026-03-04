@@ -37,7 +37,7 @@ pu: water / wet / to_wet
 fa: warmth / warm / to_warm
 li: goodness / good / like
 no: cleanliness / clean / to_clean
-lo: life / alive / to_life
+lo: life / alive / to_live
 
 # Sense
 si: light / bright / see

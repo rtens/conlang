@@ -80,7 +80,7 @@ long: side large
 wide: front large
 thick: around large
 around: outside side
-short: up small
+short: tall not
 narrow: wide not
 thin: thick not
 friend: person good
@@ -109,6 +109,8 @@ stick: tree part small
 fruit: plant - child
 seed: fruit start
 leaf: tree part soft small
+flat: short wide
+tall: up large
 root: tree part bottom
 bark(tree): tree cover
 flower: plant good
@@ -121,7 +123,7 @@ word: sound
 why: result what
 back(body): body part back
 itch: move bad - skin
-scratch: touch move rough
+scratch: rub rough
 skin: body part cover
 rope: thing long flexible
 meat: food animal
@@ -163,114 +165,98 @@ expel: eat not
 vomit: expel food
 blow: inhale not
 breathe: inhale
-laugh
-see
-hear
-know
-think
-smell
-fear
-live
-sleep
-die
-kill
-fight
-search
-hunt
-hit
-cut
-split
-stab
-scratch
-dig
-swim
-fly
-walk
-come
-lie (as in a bed)
-sit
-stand
-turn (intransitive)
-fall
-give
-hold
-squeeze
-rub
-wash
-wipe
-pull
-push
-throw
-tie
-sew
-count
-say
-sing
-play
-float
-flow
-freeze
-swell
-sun
-moon
-star
-water
-rain
-river
-lake
-sea
-salt
-stone
-sand
-dust
-earth
-cloud
-fog
-sky
-wind
-snow
-ice
-smoke
-fire
-ash
-to burn
-road
-mountain
-red
-green
-yellow
-white
-black
+laugh: exhale sound feel
+exhale: inhale not
+know: search not
+think: idea
+fear: feel bad
+live: to_live
+sleep: still still
+still: move not
+die: live not
+kill: make die
+fight(physically): move bad
+fight(verbally): speak bad
+hunt: search search
+hit: push heavy
+cut: combine not
+split: separate
+stab: hit pointy
+pointy: round not
+dig: move down tool
+swim: move water
+fly: move air
+walk: move
+lie(in_bed): still down down
+sit: still down
+stand: still
+fall: move down air
+give: carry towards
+take: give not
+hold: touch still
+squeeze: touch touch around
+rub: touch move
+wash: clean water
+wipe: rub clean
+pull: push not
+push: touch touch
+throw: push up air
+tie: combine
+sew: combine - clothing
+clothing: thing warm around
+say: speak
+sing: speak good
+play: make good
+float: slow air
+flow: water move
+freeze: cold cold
+swell: transform large
+moon: sun dark
+star: moon small
+rain: water sky
+river: water move large
+lake: water still large
+sea: water still large large
+salt: sweet not
+sweet: taste smooth
+taste: eat
+stone: land hard
+land: water not
+sand: land soft
+dust: sand air
+earth: land
+cloud: thing sky water
+fog: thing air water
+wind: air move
+snow: rain cold cold
+ice: hard cold cold
+smoke: fog warm
+fire: warm warm
+ash: thing air fire
+burn: fire
+road: thing direction
+mountain: land large large
+red: color warm
+green: color cold
+yellow: color dry
+white: color bright
+black: color dark
 night: time dark
-year
-warm
-cold
-full
-new
-old
-good
-bad
-rotten
-dirty
-straight
-round
-sharp (as a knife)
-dull (as a knife)
-smooth
-wet
-dry
-correct
-near
-far
-right
-left
-at
-in
-with
-and
-if
-because
-name
+year: time loop - sun
+old: new not
+rotten: dirty dirty
+sharp: pointy pointy
+dull: pointy not
+correct: certain
+near: far not
+far: distance
+right: side bad
+left: side good
+at: near
+and: together
+if: possible
+because: reason
+reason: result
 
 # https://tmh.conlang.org/test-sentences/conlang-syntax-test-cases.html
 

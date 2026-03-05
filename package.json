@@ -5,7 +5,7 @@
 		"test": "ava test.js",
 		"retest": "ava --watch test.js",
 		"build": "node page.js",
-		"start": "node run build ; npx http-server",
+		"start": "node page.js & npx http-server",
 		"decks": "node decks.js"
 	},
 	"dependencies": {

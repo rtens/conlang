@@ -9,7 +9,7 @@ o: (group)
 ti: thing / true / exist
 ma: person / personal / to_own
 ki: place / this / put
-se: time / ongoing / happen
+te: time / ongoing / happen
 ko: number / numbered / count
 
 # Modifier
@@ -19,7 +19,7 @@ me: ability / possible / can
 
 # Relation
 su: up / above / lift
-fe: front / before / display
+fo: front / before / display
 ka: side / besides / ignore
 le: inside / in / add
 to: direction / towards / come
@@ -32,7 +32,7 @@ pi: circle / round / turn
 pe: opening / open / to_open
 
 # Quality
-fo: weight / heavy / weigh
+fi: weight / heavy / weigh
 pu: water / wet / to_wet
 fa: warmth / warm / to_warm
 li: goodness / good / like
@@ -43,8 +43,8 @@ lo: life / alive / to_live
 si: light / bright / see
 fu: air / airy / smell
 so: softness / soft / touch
-te: sound / loud / hear
-fi: emotion / happy / feel
+se: sound / loud / hear
+fe: emotion / happy / feel
 mi: food / tasty / eat
 
 # Quantity

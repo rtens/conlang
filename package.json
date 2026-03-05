@@ -4,8 +4,9 @@
 	"scripts": {
 		"test": "ava test.js",
 		"retest": "ava --watch test.js",
-		"build": "node run.js",
-		"start": "node run build ; npx http-server"
+		"build": "node page.js",
+		"start": "node run build ; npx http-server",
+		"decks": "node decks.js"
 	},
 	"dependencies": {
 		"ava": "^6.4.1"

@@ -77,8 +77,8 @@ enough: full
 # https://en.wikipedia.org/wiki/Swadesh_list
 
 I: person this
-you: I not
-he: person this different
+you: I different
+he: person that
 we: I many
 you(plural): you many
 they: he many

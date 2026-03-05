@@ -71,6 +71,8 @@ my: I
 away: towards not
 full: all
 maybe: possible
+strong: can heavy
+enough: full
 
 # https://en.wikipedia.org/wiki/Swadesh_list
 

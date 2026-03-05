@@ -367,4 +367,4 @@ Your things are all here.
 I love you. : . I ! love > you .
 My back itches. : . back(body) - I ! itch .
 Please scratch my back. : . I ! desire + you ! scratch > back(body) - I .
-I cannot lift it. It's too heavy. Or I'm too weak. : . can - not + I ! lift > this . . this ! > heavy heavy . . maybe + I ! > can heavy full - not .
+I cannot lift it. It's too heavy. Or I'm too weak. : . can - not + I ! lift > this . . this ! > heavy heavy . . maybe + I ! > strong enough - not .

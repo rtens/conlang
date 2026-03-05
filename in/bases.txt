@@ -22,7 +22,7 @@ su: up / above / lift
 fo: front / before / display
 ka: side / besides / ignore
 le: inside / in / add
-to: direction / towards / come
+to: direction / towards / go
 ne: distance / different / separate
 
 # Shape

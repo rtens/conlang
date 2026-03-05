@@ -77,7 +77,7 @@ enough: full
 # https://en.wikipedia.org/wiki/Swadesh_list
 
 I: person this
-you: I different
+you: I oppose
 he: person that
 we: I many
 you(plural): you many
@@ -190,12 +190,11 @@ sleep: still still
 still: move not
 die: live not
 kill: make die
-fight(physically): move bad
-fight(verbally): speak bad
+fight: oppose bad
 hunt: search search
 hit: push heavy
 cut: combine not
-split: separate
+split: cut
 stab: hit pointy
 pointy: round not
 dig: move down tool

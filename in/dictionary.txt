@@ -47,8 +47,8 @@ shine: see not
 
 fast: move many
 plant: life
-past: time before
-future: time after
+past: time beginning
+future: time end
 after: behind
 behind: back
 tomorrow: day after
@@ -73,6 +73,10 @@ full: all
 maybe: possible
 strong: can heavy
 enough: full
+appear: uncover
+uncover: open
+it: thing that
+again: repeat
 
 # https://en.wikipedia.org/wiki/Swadesh_list
 

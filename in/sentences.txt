@@ -367,4 +367,11 @@ Your things are all here.
 I love you. : . I ! love > you .
 My back itches. : . back(body) - I ! itch .
 Please scratch my back. : . I ! desire + you ! scratch > back(body) - I .
-I cannot lift it. It's too heavy. Or I'm too weak. : . can - not + I ! lift > this . . this ! > heavy heavy . . maybe + I ! > strong enough - not .
+I cannot lift it. : . can - not + I ! lift > thing this .
+It's too heavy. : . thing this ! > heavy heavy .
+Or I'm too weak. : . maybe + I ! > strong enough - not .
+
+The itsy bitsy spider went up the water spout. : . past + spider - small ! move up - in > thing flow down inside .
+Down came the rain, and washed the spider out. : . rain ! fall . . rain ! wash - outside towards > animal small that .
+Up came the sun, and dried up all the rain. : . sun ! appear . . it ! dry > rain .
+And the itsy bitsy spider went up the spout again. : . animal small that ! move up again > thing flow down inside .

@@ -69,6 +69,8 @@ house: place person live
 little: small
 my: I
 away: towards not
+full: all
+maybe: possible
 
 # https://en.wikipedia.org/wiki/Swadesh_list
 
@@ -258,7 +260,7 @@ old: new not
 rotten: dirty dirty
 sharp: pointy pointy
 dull: pointy not
-correct: certain
+correct: true
 near: far not
 far: distance
 right: side bad

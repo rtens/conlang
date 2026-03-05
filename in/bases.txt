@@ -6,7 +6,7 @@ a: (object)
 o: (group)
 
 # Category
-ti: thing / certain / exist
+ti: thing / true / exist
 ma: person / personal / to_own
 ki: place / this / put
 se: time / ongoing / happen
@@ -59,4 +59,4 @@ nu: beginning / new / start
 tu: tool / used / use
 ta: change / changed / transform
 ku: container / contained / carry
-lu: repeatition / repeating / repeat
+lu: repetition / repeating / repeat

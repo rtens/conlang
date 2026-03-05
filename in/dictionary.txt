@@ -264,6 +264,7 @@ dull: pointy not
 correct: true
 near: far not
 far: distance
+distance: away
 right: side bad
 left: side good
 at: near

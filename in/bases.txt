@@ -23,7 +23,7 @@ fo: front / before / display
 ka: side / besides / ignore
 le: inside / in / add
 to: direction / towards / go
-ne: distance / different / oppose
+ne: opposition / different / oppose
 
 # Shape
 la: size / large / to_value

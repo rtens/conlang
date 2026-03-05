@@ -21,7 +21,7 @@ me: ability / possible / can
 su: up / above / lift
 fe: front / before / display
 ka: side / besides / ignore
-lu: inside / in / add
+le: inside / in / add
 to: direction / towards / come
 ne: distance / different / separate
 
@@ -59,4 +59,4 @@ nu: beginning / new / start
 tu: tool / used / use
 ta: change / changed / transform
 ku: container / contained / carry
-le: repeatition / repeating / repeat
+lu: repeatition / repeating / repeat

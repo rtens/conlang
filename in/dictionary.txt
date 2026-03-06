@@ -188,7 +188,7 @@ laugh: exhale sound feel
 exhale: inhale not
 know: search not
 think: idea
-fear: feel bad
+fear: feel bad towards result
 live: to_live
 sleep: still still
 still: move not

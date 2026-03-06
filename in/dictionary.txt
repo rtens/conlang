@@ -95,13 +95,13 @@ four: number pair pair
 ten: number pair repeat many
 twenty: number pair pair repeat many
 tenty_five: number many repeat many
-long: side large
-wide: front large
-thick: around large
+long: large side
+wide: large front
+thick: large around
 around: outside side
-short: tall not
+short: small up
 narrow: wide not
-thin: thick not
+thin: small around
 friend: person good
 woman: person soft
 man: person hard
@@ -129,7 +129,7 @@ fruit: plant - child
 seed: fruit start
 leaf: tree part soft small
 flat: short wide
-tall: up large
+tall: large up
 root: tree part bottom
 bark(tree): tree cover
 flower: plant good
@@ -230,7 +230,7 @@ flow: water move
 freeze: cold cold
 swell: transform large
 moon: sun dark
-star: moon small
+star: light small sky
 rain: water sky
 river: water move large
 lake: water still large

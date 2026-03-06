@@ -169,11 +169,12 @@ bottom: down down
 knee: leg middle
 wing: bird - arm
 belly: body part middle
-guts: body inside middle
+guts: organ many middle
 neck: head bottom
 breast: body part middle up front
-heart: body inside feel
-liver: body inside clean
+organ: body part inside
+heart: organ feel
+liver: organ clean
 face: head front
 arm: body part use
 bite: eat small

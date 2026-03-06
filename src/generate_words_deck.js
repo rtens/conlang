@@ -14,7 +14,7 @@ export default function generate_bases_deck(out, console) {
 
     for (const word of words) {
       cards.push([
-        `w_${bases.join('')}_f${words.indexOf(word) + 1}`,
+        `wf_${word}`,
         'forward',
         bases.join(' '),
         bases.map(b => `<img src="${b}.png" height="40">`).join(''),
@@ -25,7 +25,7 @@ export default function generate_bases_deck(out, console) {
     if (bases.length == 1) continue
 
     cards.push([
-      `b_${bases.join('')}_r`,
+      `wr_${bases.join('')}`,
       'reverse',
       bases.join(' '),
       bases.map(b => `<img src="${b}.png" height="40">`).join(''),

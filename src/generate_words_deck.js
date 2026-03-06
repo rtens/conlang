@@ -17,7 +17,7 @@ export default function generate_bases_deck(out, console) {
         `w_${bases.join('')}_f${words.indexOf(word) + 1}`,
         'forward',
         bases.join(' '),
-        bases.map(b => `<img src="${b}.png">`).join(''),
+        bases.map(b => `<img src="${b}.png" height="40">`).join(''),
         word
       ])
     }
@@ -28,7 +28,7 @@ export default function generate_bases_deck(out, console) {
       `b_${bases.join('')}_r`,
       'reverse',
       bases.join(' '),
-      bases.map(b => `<img src="${b}.png">`).join(''),
+      bases.map(b => `<img src="${b}.png" height="40">`).join(''),
       words.join(', ')
     ])
   }

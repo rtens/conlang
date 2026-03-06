@@ -245,11 +245,11 @@ sand: land soft
 dust: sand air
 earth: land
 cloud: thing sky water
-fog: thing air water
+fog: air water
 wind: air move
 snow: rain cold cold
 ice: hard cold cold
-smoke: fog warm
+smoke: air fire
 fire: warm warm
 ash: thing air fire
 burn: fire
@@ -267,7 +267,7 @@ rotten: dirty dirty
 sharp: pointy pointy
 dull: pointy not
 correct: true
-near: far not
+near: side
 far: distance
 distance: away
 right: side bad

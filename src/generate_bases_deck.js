@@ -26,11 +26,5 @@ export default function generate_bases_deck(out) {
     ])
   }
 
-
-  save(out,
-    `#deck:conlang::bases
-#html:true
-#guid column:1
-#notetype column:2
-${cards.map(fields => fields.join(';')).join('\n')}`)
+  save.deck(out, 'bases', cards)
 }

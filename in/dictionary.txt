@@ -103,8 +103,8 @@ short: small up
 narrow: wide not
 thin: small around
 friend: person good
-woman: person soft
-man: person hard
+woman: person smooth
+man: woman not
 child: person small
 wife: woman pair
 husband: man pair
@@ -120,10 +120,10 @@ spider: animal small - leg - eight
 eight: number pair repeat pair pair
 leg: body part move
 body: person thing
-snake: animal soft long
+snake: animal long soft
 worm: snake small
 tree: plant large
-forest: tree many
+forest: tree many many
 stick: tree part small
 fruit: plant - child
 seed: fruit start
@@ -233,15 +233,15 @@ swell: transform large
 moon: sun dark
 star: light small sky
 rain: water sky
-river: water move large
-lake: water still large
-sea: water still large large
+river: water move
+lake: water still
+sea: lake large large
 salt: sweet not
 sweet: taste smooth
 taste: eat
 stone: land hard
-land: water not
-sand: land soft
+land: water not many
+sand: water not
 dust: sand air
 earth: land
 cloud: thing sky water
@@ -254,7 +254,7 @@ fire: warm warm
 ash: thing air fire
 burn: fire
 road: thing direction
-mountain: land large large
+mountain: land tall large
 red: color warm
 green: color cold
 yellow: color dry

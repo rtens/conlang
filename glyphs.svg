@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.9224607"
-     inkscape:cx="201.04442"
-     inkscape:cy="401.56868"
+     inkscape:cx="121.97909"
+     inkscape:cy="552.93718"
      inkscape:window-width="2560"
      inkscape:window-height="1346"
      inkscape:window-x="1285"
@@ -1414,11 +1414,11 @@
     </g>
     <g
        id="g574"
-       transform="matrix(0,0.95448818,-1,0,81.716846,21.153172)"
+       transform="matrix(0,0.95448818,1,0,24.990379,21.153172)"
        inkscape:export-filename="glyphs\fu.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
-       style="stroke-width:1.02356;fill:none">
+       style="fill:none;stroke-width:1.02356">
       <rect
          style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.722181;stroke-linecap:round"
          id="rect570"
@@ -1525,28 +1525,6 @@
          sodipodi:nodetypes="ccsc" />
     </g>
     <g
-       id="g600"
-       transform="rotate(90,85.805544,166.59449)"
-       inkscape:export-filename="glyphs\mi.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       style="fill:none">
-      <rect
-         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
-         id="rect596"
-         width="7.9375"
-         height="7.9375"
-         x="89.032951"
-         y="217.69739"
-         inkscape:export-filename="glyphs\ku.png"
-         inkscape:export-xdpi="300"
-         inkscape:export-ydpi="300" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.705556;stroke-linecap:round;stroke-opacity:1"
-         d="m 91.096769,218.66617 0.10322,6.0212 c 0,0 0.03441,-3.64713 1.720343,-3.71594 1.685936,-0.0688 1.720343,3.68153 1.720343,3.68153"
-         id="path598" />
-    </g>
-    <g
        id="g618"
        transform="translate(-60.983309,45.650481)"
        inkscape:export-filename="glyphs\ku.png"
@@ -1636,32 +1614,6 @@
          id="path851" />
     </g>
     <g
-       id="g994"
-       transform="rotate(90,79.858631,135.05237)"
-       inkscape:export-filename="glyphs\me.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       style="fill:none">
-      <g
-         id="g992"
-         style="fill:none">
-        <rect
-           style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
-           id="rect988"
-           width="7.9375"
-           height="7.9375"
-           x="88.929741"
-           y="157.58864"
-           inkscape:export-filename="su.png"
-           inkscape:export-xdpi="300"
-           inkscape:export-ydpi="300" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.705556;stroke-linecap:round;stroke-opacity:1"
-           d="m 95.301176,163.3933 c 0,0 -4.128822,2.09882 -4.36967,-0.68813 -0.240847,-2.78696 0.34407,-4.5073 2.718141,-3.57832 2.374075,0.92899 -1.204237,2.82137 -1.204237,2.82137"
-           id="path990" />
-      </g>
-    </g>
-    <g
        id="g1104"
        transform="matrix(-1,0,0,1,232.61335,9.8403613)"
        inkscape:export-filename="glyphs\mo.png"
@@ -1682,6 +1634,51 @@
          style="fill:none;stroke:#000000;stroke-width:0.705556;stroke-linecap:round;stroke-opacity:1"
          d="m 130.93057,172.32443 c 0,0 -3.78476,-1.72034 -3.71594,0.89458 0.0688,2.61492 3.64712,0.72254 3.64712,0.72254 l -0.24085,3.5095"
          id="path1102" />
+    </g>
+    <g
+       id="g520"
+       transform="matrix(0,0.95448818,1,0,24.990379,32.576249)"
+       inkscape:export-filename="glyphs\la.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       style="fill:none;stroke-width:1.02356">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.722181;stroke-linecap:round"
+         id="rect516"
+         width="8.3159752"
+         height="7.9375"
+         x="116.91451"
+         y="24.394484"
+         inkscape:export-filename="ka.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.722181;stroke-linecap:round;stroke-opacity:1"
+         d="m 124.02321,25.866025 c 0,0 -5.95239,-1.03221 -5.91798,2.03 0.0344,3.06221 5.74595,4.30086 5.84917,2.23645 0.10322,-2.06441 -1.92679,-3.16544 -3.61272,-2.4773 -1.68594,0.68814 0.20644,1.30746 0.20644,1.30746"
+         id="path518" />
+    </g>
+    <g
+       id="g758"
+       transform="rotate(90,86.513271,166.92374)"
+       inkscape:export-filename="glyphs\mo.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       style="fill:none">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.705554;stroke-linecap:round"
+         id="rect754"
+         width="7.9375"
+         height="7.9375"
+         x="88.860916"
+         y="217.62857"
+         inkscape:export-filename="glyphs\ku.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.705556;stroke-linecap:round;stroke-opacity:1"
+         d="m 91.096769,218.66617 0.10322,6.0212 c 0,0 1.204243,-5.09222 2.890176,-5.16103 1.685936,-0.0688 1.376275,4.85137 1.376275,4.85137"
+         id="path756"
+         sodipodi:nodetypes="ccsc" />
     </g>
   </g>
 </svg>

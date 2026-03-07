@@ -61,11 +61,11 @@ love: like like
 people: person many
 shout: speak loud
 two: number pair
-kitten: cat - animal small
+kitten: cat - child
 cat: dog not
 table: furniture top smooth
-furniture: house - thing
-house: place person live
+furniture: house inside - thing
+house: place person
 little: small
 my: I
 away: towards not
@@ -115,9 +115,9 @@ bird: animal air
 dog: animal person
 tiny: small small
 jump: move up air
-louse: spider - tiny
+louse: animal tiny - itch
 spider: animal small - leg - eight
-eight: number pair repeat pair pair
+eight: number pair pair repeat pair
 leg: body part move
 body: person thing
 snake: animal long soft
@@ -126,7 +126,8 @@ tree: plant large
 forest: tree many many
 stick: tree part small
 fruit: plant - child
-seed: fruit start
+seed: plant - embryo
+embryo: child start
 leaf: tree part soft small
 flat: short wide
 tall: large up
@@ -135,13 +136,14 @@ bark(tree): tree cover
 flower: plant good
 drink: eat water
 sun: light large sky
-sky: up outside
+sky: outside up
 now: time this
 language: idea - word many
 word: sound
 why: result what
+how: direction what
 back(body): body part back
-itch: move bad - skin
+itch: skin - move bad
 scratch: rub rough
 skin: body part cover
 rope: thing long flexible
@@ -149,7 +151,7 @@ meat: food animal
 blood: body inside water
 bone: body inside hard
 fat: body inside soft
-egg: bird - child start
+egg: bird - embryo
 horn: animal thing part top hard
 tail: animal thing part - end soft
 feather: bird - hair

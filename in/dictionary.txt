@@ -141,7 +141,6 @@ now: time this
 language: idea - word many
 word: sound
 why: result what
-how: direction what
 back(body): body part back
 itch: skin - move bad
 scratch: rub rough

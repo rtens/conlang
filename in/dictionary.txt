@@ -40,7 +40,7 @@ result: end
 end: beginning not
 flexible: soft
 desire: like
-speak: hear not
+hear: speak not
 shine: see not
 
 # Sentences

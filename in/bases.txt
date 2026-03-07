@@ -43,7 +43,7 @@ lo: life / alive / to_live
 si: light / bright / see
 fu: air / airy / smell
 so: softness / soft / touch
-se: sound / loud / hear
+se: sound / loud / speak
 fe: emotion / happy / feel
 mi: food / tasty / eat
 

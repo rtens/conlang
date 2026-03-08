@@ -226,14 +226,14 @@ sew: combine - clothing
 clothing: thing warm around
 say: speak
 sing: speak good
-play: make good
+play: use good
 float: slow air
 flow: water move
 freeze: cold cold
 swell: transform large
 moon: sun dark
 star: light small sky
-rain: water sky
+rain: sky water
 river: water move
 lake: water still
 sea: lake large large
@@ -245,7 +245,7 @@ land: water not many
 sand: water not
 dust: sand air
 earth: land
-cloud: thing sky water
+cloud: rain thing
 fog: air water
 wind: air move
 snow: rain cold cold
@@ -254,7 +254,7 @@ smoke: air fire
 fire: warm warm
 ash: thing air fire
 burn: fire
-road: thing direction
+road: direction thing
 mountain: land tall large
 red: color warm
 green: color cold
@@ -268,12 +268,12 @@ rotten: dirty dirty
 sharp: pointy pointy
 dull: pointy not
 correct: true
-near: side
+near: far not
 far: distance
-distance: away
+distance: direction
 right: side bad
 left: side good
-at: near
+at: side
 and: together
 if: possible
 because: reason

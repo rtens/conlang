@@ -22,8 +22,6 @@ export default function generate_bases_deck(out, console) {
       ])
     }
 
-    if (bases.length == 1) continue
-
     cards.push([
       `wr_${bases.join('')}`,
       'reverse',

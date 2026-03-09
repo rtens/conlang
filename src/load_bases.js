@@ -14,14 +14,9 @@ export default function load_bases() {
       group = line.slice(1).trim()
 
     } else if (line.includes(':')) {
-      let [syllable, meanings] = line.split(':')
-      meanings = (meanings).split(' / ')
-        .map(words => words.split(',').map(s => s.trim()))
-      let [noun, qualifier, verb] = meanings
-      qualifier ||= []
-      verb ||= []
-
-      bases.push({ group, syllable, noun, qualifier, verb })
+      let [syllable, meaning] = line.split(':')
+      meaning = meaning.trim()
+      bases.push({ group, syllable, meaning })
     }
   }
   return bases

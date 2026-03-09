@@ -17,13 +17,11 @@ export default function load_dictionary() {
     }))
 
   for (const base of load_bases()) {
-    for (const word of [...base.noun, ...base.qualifier, ...base.verb]) {
-      dictionary.push({
-        word,
-        translation: '(base)',
-        bases: [base.syllable],
-      })
-    }
+    dictionary.push({
+      word: base.meaning,
+      translation: '(base)',
+      bases: [base.syllable],
+    })
   }
 
   return dictionary

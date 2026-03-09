@@ -6,15 +6,92 @@
 >: (object)
 -: (group)
 
+# Bases
+
+true: thing
+correct: true
+exist: thing
+personal: person
+this: place
+put: place
+ongoing: time
+happen: time
+numbered: number
+count: number
+opposite: not
+negate: not
+question: what
+unknown: what
+search: what
+ability: maybe
+possible: maybe
+can: maybe
+above: up
+lift: up
+before: front
+display: front
+besides: side
+ignore: side
+add: in
+inside: in
+direction: towards
+go: towards
+size: large
+value: large
+smoothness: smooth
+smoothen: smooth
+circle: round
+turn: round
+opening: open
+weight: heavy
+weigh: heavy
+water: wet
+warmth: warm
+goodness: good
+like: good
+desire: like
+life: alive
+live: alive
+light: see
+bright: see
+color: light
+air: smell
+softness: touch
+soft: touch
+flexible: soft
+sound: speak
+loud: speak
+emotion: feel
+happy: feel
+food: eat
+tasty: eat
+unit: single
+choose: single
+together: pair
+with: pair
+combine: pair
+group: many
+collect: many
+everything: all
+fill: all
+beginning: start
+new: start
+tool: use
+used: use
+transform: change
+make: change
+container: carry
+
 # Negations
 
 idea: thing not
 animal: person not
 name: number not
 same: opposite not
-what: question
 down: up not
 back: front not
+behind: back
+after: behind
 middle: side not
 outside: inside not
 small: large not
@@ -29,28 +106,21 @@ dirty: clean not
 slow: fast not
 dark: bright not
 that: this not
-make: transform
 hard: soft not
-with: together
 part: unit not
-cover: to_open not
-color: light
-emit: shine
-result: end
+cover: open not
 end: beginning not
-flexible: soft
-desire: like
+result: end
 hear: speak not
 shine: see not
+emit: shine
 
 # Sentences
 
-fast: move many
+fast: move move
 plant: life
 past: time beginning
 future: time end
-after: behind
-behind: back
 tomorrow: day after
 day: time loop
 loop: repeat
@@ -70,7 +140,6 @@ little: small
 my: I
 away: towards not
 full: all
-maybe: possible
 strong: can heavy
 enough: full
 appear: uncover
@@ -81,7 +150,7 @@ again: repeat
 # https://en.wikipedia.org/wiki/Swadesh_list
 
 I: person this
-you: I oppose
+you: I near
 he: person that
 we: I many
 you(plural): you many
@@ -97,11 +166,11 @@ twenty: number pair pair repeat many
 tenty_five: number many repeat many
 long: large side
 wide: large front
-thick: large around
-around: outside side
+thick: large outside
+around: side all
 short: small up
 narrow: wide not
-thin: small around
+thin: small outside
 friend: person good
 woman: person smooth
 man: woman not
@@ -125,9 +194,8 @@ worm: snake small
 tree: plant large
 forest: tree many many
 stick: tree part small
-fruit: plant - child
-seed: plant - embryo
-embryo: child start
+fruit: plant part sweet
+seed: plant beginning
 leaf: tree part soft small
 flat: short wide
 tall: large up
@@ -138,11 +206,12 @@ drink: eat water
 sun: light large sky
 sky: outside up
 now: time this
-language: idea - word many
+language: word system
+system: idea many
 word: sound
 why: result what
 back(body): body part back
-itch: skin - move bad
+itch: skin - feel bad
 scratch: rub rough
 skin: body part cover
 rope: thing long flexible
@@ -150,9 +219,9 @@ meat: food animal
 blood: body inside water
 bone: body inside hard
 fat: body inside soft
-egg: bird - embryo
+egg: bird beginning
 horn: animal thing part top hard
-tail: animal thing part - end soft
+tail: animal thing part end long soft
 feather: bird - hair
 hair: skin soft
 head: body part up
@@ -165,8 +234,8 @@ tongue: mouth inside soft
 hand: arm up
 fingernail: hand up hard
 foot: leg down
-top: up up
-bottom: down down
+top: up
+bottom: down
 knee: leg middle
 wing: bird - arm
 belly: body part middle
@@ -191,11 +260,11 @@ exhale: inhale not
 know: search not
 think: idea
 fear: feel bad towards result
-live: to_live
 sleep: still still
 still: move not
 die: live not
 kill: make die
+oppose: negate
 fight: oppose bad
 hunt: search search
 hit: push heavy
@@ -223,7 +292,7 @@ push: touch touch
 throw: push up air
 tie: combine
 sew: combine - clothing
-clothing: thing warm around
+clothing: warm thing around
 say: speak
 sing: speak good
 play: use good
@@ -267,8 +336,6 @@ old: new not
 rotten: dirty dirty
 sharp: pointy pointy
 dull: pointy not
-correct: true
-near: far not
 far: distance
 distance: direction
 right: side bad

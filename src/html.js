@@ -38,3 +38,11 @@ export function table(cells, cols = []) {
       .join('\n')}\n </div>`)
     .join('\n')}\n</div>`
 }
+
+export function row(...cols) {
+  return `<div class="row">\n ${cols.join('\n ')}\n</div>`
+}
+
+export function col(size, ...content) {
+  return ` <div class="col-${size}">${content.join('\n')}</div>`
+}

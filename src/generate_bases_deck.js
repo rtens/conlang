@@ -5,24 +5,20 @@ export default function generate_bases_deck(out) {
   const cards = []
 
   for (const base of load_bases()) {
-    const words = [base.noun, base.qualifier, base.verb].filter(x => x.length)
-
-    for (const word of words) {
-      cards.push([
-        `b_${base.syllable}_f${words.indexOf(word) + 1}`,
-        'forward',
-        base.syllable,
-        `<img src="${base.syllable}.png">`,
-        word
-      ])
-    }
+    cards.push([
+      `bf_${base.syllable}`,
+      'forward',
+      base.syllable,
+      `<img src="${base.syllable}.png">`,
+      base.meaning
+    ])
 
     cards.push([
-      `b_${base.syllable}_r`,
+      `br_${base.syllable}`,
       'reverse',
       base.syllable,
       `<img src="${base.syllable}.png">`,
-      words.join(', ')
+      base.meaning
     ])
   }
 

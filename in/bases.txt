@@ -6,57 +6,57 @@ a: (object)
 o: (group)
 
 # Category
-ti: thing / true / exist
-ma: person / personal / to_own
-ki: place / this / put
-te: time / ongoing / happen
-ko: number / numbered / count
-
-# Modifier
-na: opposite / not / negate
-ke: question / unknown / search
-me: ability / possible / can
-
-# Relation
-su: up / above / lift
-fo: front / before / display
-ka: side / besides / ignore
-le: inside / in / add
-to: direction / towards / go
-ne: opposition / different / oppose
-
-# Shape
-la: size / large / to_value
-po: smoothness / smooth / smoothen
-pi: circle / round / turn
-pe: opening / open / to_open
-
-# Quality
-fi: weight / heavy / weigh
-pu: water / wet / to_wet
-fa: warmth / warm / to_warm
-li: goodness / good / like
-no: cleanliness / clean / to_clean
-lo: life / alive / to_live
-
-# Sense
-si: light / bright / see
-fu: air / airy / smell
-so: softness / soft / touch
-se: sound / loud / speak
-fe: emotion / happy / feel
-mi: food / tasty / eat
+ti: thing
+ma: person
+ki: place
+te: time
+ko: number
 
 # Quantity
-ni: unit / single / choose
-pa: pair / together / combine
-mu: group / many / collect
-sa: everything / all / fill
+ni: single
+pa: pair
+mu: many
+sa: all
+
+# Relation
+su: up
+fo: front
+ka: side
+le: in
+to: towards
+ne: near
+
+# Quality
+fi: heavy
+pu: wet
+fa: warm
+no: clean
+li: good
+lo: alive
+
+# Shape
+la: large
+po: smooth
+pi: round
+pe: open
+
+# Sense
+si: see
+fu: smell
+so: touch
+fe: feel
+mi: eat
+se: speak
 
 # Action
-mo: movement / moving / move
-nu: beginning / new / start
-tu: tool / used / use
-ta: change / changed / transform
-ku: container / contained / carry
-lu: repetition / repeating / repeat
+mo: move
+ta: change
+tu: use
+ku: carry
+nu: start
+lu: repeat
+
+# Modifier
+na: not
+ke: what
+me: maybe

@@ -370,6 +370,7 @@ Please scratch my back. : . I ! desire + you ! scratch > back(body) - I .
 I cannot lift it. : . can - not + I ! lift > thing this .
 It's too heavy. : . thing this ! > heavy heavy .
 Or I'm too weak. : . maybe + I ! > strong enough - not .
+I am taller than you. : . I > taller - you .
 
 The itsy bitsy spider went up the water spout. : . past + spider - small ! move up - in > thing flow down inside .
 Down came the rain, and washed the spider out. : . rain ! fall . . rain ! wash - outside towards > animal small that .

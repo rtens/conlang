@@ -146,6 +146,8 @@ appear: uncover
 uncover: open
 it: thing that
 again: repeat
+taller: tall - compare
+compare: side side
 
 # https://en.wikipedia.org/wiki/Swadesh_list
 

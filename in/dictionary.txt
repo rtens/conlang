@@ -243,7 +243,7 @@ knee: leg middle
 wing: bird - arm
 belly: body part middle
 guts: organ many middle
-#TODO neck: head bottom
+neck: head back bottom
 breast: body part middle up front
 organ: body part inside
 heart: organ feel

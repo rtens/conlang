@@ -117,7 +117,8 @@ emit: shine
 
 # Sentences
 
-fast: move move
+fast: move much
+much: many
 plant: life
 past: time beginning
 future: time end
@@ -136,7 +137,7 @@ cat: dog not
 table: furniture top smooth
 furniture: house inside - thing
 house: place person
-little: small
+little: much not
 my: I
 away: towards not
 full: all
@@ -242,7 +243,7 @@ knee: leg middle
 wing: bird - arm
 belly: body part middle
 guts: organ many middle
-neck: head bottom
+#TODO neck: head bottom
 breast: body part middle up front
 organ: body part inside
 heart: organ feel
@@ -294,11 +295,11 @@ push: touch touch
 throw: push up air
 tie: combine
 sew: combine - clothing
-clothing: warm thing around
+clothing: warm around thing
 say: speak
 sing: speak good
 play: use good
-float: slow air
+float: move little air
 flow: water move
 freeze: cold cold
 swell: transform large
@@ -320,10 +321,10 @@ cloud: rain thing
 fog: air water
 wind: air move
 snow: rain cold cold
-ice: hard cold cold
-smoke: air fire
+ice: freeze hard
+smoke: fire air
 fire: warm warm
-ash: thing air fire
+ash: smoke thing
 burn: fire
 road: direction thing
 mountain: land tall large
@@ -338,8 +339,8 @@ old: new not
 rotten: dirty dirty
 sharp: pointy pointy
 dull: pointy not
-far: distance
-distance: direction
+far: near not
+distance: far
 right: side bad
 left: side good
 at: side

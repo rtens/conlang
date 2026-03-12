@@ -55,7 +55,7 @@ live: alive
 see: light
 bright: light
 color: light
-smell: air
+exhale: air
 soft: touch
 flexible: soft
 speak: sound
@@ -111,8 +111,10 @@ cover: open not
 end: beginning not
 result: end
 hear: speak not
-shine: see not
+shine: light
 emit: shine
+smell: inhale
+inhale: exhale not
 
 # Sentences
 
@@ -168,11 +170,11 @@ twenty: number pair pair repeat many
 tenty_five: number many repeat many
 long: large side
 wide: large front
-thick: large outside
 around: side all
 short: small up
 narrow: wide not
-thin: small outside
+thin: small around
+thick: large around
 friend: person good
 woman: person smooth
 man: woman not
@@ -251,14 +253,12 @@ face: head front
 arm: body part use
 bite: eat small
 suck: inhale water
-inhale: smell
 spit: expel water
 expel: eat not
 vomit: expel food
-blow: inhale not
 breathe: inhale
 laugh: exhale sound feel
-exhale: inhale not
+blow: exhale exhale
 know: search not
 think: idea
 fear: feel bad towards result
@@ -289,7 +289,7 @@ squeeze: touch touch around
 rub: touch move
 wash: clean water
 wipe: rub clean
-pull: push not
+pull: hold towards this
 push: touch touch
 throw: push up air
 tie: combine

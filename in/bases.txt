@@ -41,12 +41,12 @@ pi: round
 pe: open
 
 # Sense
-si: see
-fu: smell
+si: light
+se: sound
+fu: air
 so: touch
-fe: feel
-mi: eat
-se: speak
+mi: food
+fe: emotion
 
 # Action
 mo: move

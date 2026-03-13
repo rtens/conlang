@@ -210,8 +210,9 @@ drink: eat water
 sun: light large sky
 sky: outside up
 now: time this
-language: word system
-system: idea many
+language: word model
+model: idea many
+system: thing many
 word: sound
 why: result what
 back(body): body part back

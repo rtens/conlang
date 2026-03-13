@@ -52,7 +52,6 @@ like: good
 desire: like
 life: alive
 live: alive
-see: light
 bright: light
 color: light
 exhale: air
@@ -113,6 +112,7 @@ result: end
 hear: speak not
 shine: light
 emit: shine
+see: shine not
 smell: inhale
 inhale: exhale not
 

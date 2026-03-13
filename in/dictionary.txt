@@ -283,14 +283,14 @@ lie(in_bed): still down down
 sit: still down
 stand: still
 fall: move down air
-give: carry towards
-take: give not
+give: carry away
+take: carry towards
 hold: touch still
 squeeze: touch touch around
 rub: touch move
 wash: clean water
 wipe: rub clean
-pull: hold towards this
+pull: hold towards
 push: touch touch
 throw: push up air
 tie: combine
